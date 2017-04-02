@@ -1,0 +1,28 @@
+language: node_js
+node_js:
+- '7'
+before_install:
+- chmod 600 ~/.ssh/ssh_key
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/ssh_key
+- cp .travis/ssh_config ~/.ssh/config
+install:
+- npm install hexo@beta -g
+- npm install
+# - npm install hexo-util --save
+# - npm install hexo-generator-feed --save
+# - npm install hexo-generator-sitemap --save
+- npm install hexo-deployer-git --save
+- git config --global user.name 'xa0082249956'
+- git config --global user.emall '576810415@qq.com'
+# - git clone git@github.com:xa0082249956/xa0082249956.github.io.git .deploy_git
+script:
+# - git config user.name "xa0082249956"
+# - git config user.emall 576810415@qq.com
+# - git config --list
+- hexo clean
+- hexo generate
+- hexo deploy
+branches:
+  only:
+  - master
