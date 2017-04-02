@@ -9,7 +9,7 @@ before_install:
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa
 - cp .travis/ssh_config ~/.ssh/config
-- git clone git@github.com:xa0082249956/xa0082249956.github.io .deploy_git
+- git clone git@github.com:xa0082249956/xa0082249956.github.io.git .deploy_git
 - echo "[user]" >> .deploy_git/.git/config
 - echo "name = xa0082249956" >> .deploy_git/.git/config
 - echo "$c$c$c$c name = xa0082249956" >> .deploy_git/.git/config
