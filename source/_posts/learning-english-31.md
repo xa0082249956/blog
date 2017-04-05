@@ -11,6 +11,7 @@ tags: [学英语报]
 16-20 `BABBC`    21-25 `DAABA`    26-30 `CDCBC`
 31-35 `DBDAC`    36-40 `DGFAC`    41-45 `DACBD`
 46-50 `CACBD`    51-55 `ADBCA`    56-60 `BADCA`
+<!-- more -->
 
 ## 填空
 
