@@ -9,7 +9,7 @@ categories:
 
 1-5 `CCBBA`      6-10 `BAACB`     11-15 `ACABB`
 16-20 `CBCAB`    21-25 `CADAD`    26-30 `BCCAB`
-31-35 `BDABC`    36-40 `EAGBD`    41-45 `ABDCB`
+31-35 `BDABC`    36-40 `EABGD`    41-45 `ABDCB`
 46-50 `DCABC`    51-55 `DABDA`    56-60 `CABDC`
 <!-- more -->
 
@@ -19,7 +19,7 @@ categories:
 62 `graduation`
 63 `it`
 64 `traditional`
-65 `advance`
+65 `advanced`
 
 66 `to choose`
 67 `to`
@@ -48,6 +48,7 @@ categories:
 75 `therefore` -> `However`
 
 ### 第六句
+
 76 `Either` -> `Neither`
 
 ### 第七句
