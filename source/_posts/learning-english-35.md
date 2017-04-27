@@ -62,3 +62,6 @@ categories:
 ### 第九句
 
 80 *`was`* solved
+
+> 谢谢 XATYZ 的 陈松烨 同学。
+> 这一期英语答案由他提供。
