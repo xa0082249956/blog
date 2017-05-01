@@ -35,7 +35,7 @@ categories:
 74 `helped` -> `help`
 75 第二个 `we`-> `they`
 
-76 ~~~`to`~~~
+76 ~~`to`~~
 77 `when` -> `how`
 78 `known` -> `knowing`
 79 *`the`* `Internet`

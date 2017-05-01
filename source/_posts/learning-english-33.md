@@ -52,4 +52,4 @@ categories:
 
 78 `On` -> `in`
 79 `him` -> `them`
-80 ~~~`have`~~~
+80 ~~`have`~~
