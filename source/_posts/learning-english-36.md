@@ -1,6 +1,7 @@
 ---
 title: Learning English G2-36
 date: 2017-05-01 13:35:00
+show: hide
 categories:
 - learning_english
 ---
