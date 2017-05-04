@@ -1,7 +1,7 @@
 ---
 title: Learning English G2-31
 date: 2017-4-5 19:00:25
-show: hide
+visible: false
 categories:
 - learning_english
 ---

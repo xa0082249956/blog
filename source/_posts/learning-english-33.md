@@ -1,7 +1,7 @@
 ---
 title: Learning English G2-33
 date: 2017-04-13 22:15:27
-show: hide
+visible: false
 categories:
 - learning_english
 ---

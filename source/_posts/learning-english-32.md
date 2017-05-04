@@ -1,7 +1,7 @@
 ---
 title: Learning English G2-32
 date: 2017-4-15 12:00:25
-show: hide
+visible: false
 categories:
 - learning_english
 ---
