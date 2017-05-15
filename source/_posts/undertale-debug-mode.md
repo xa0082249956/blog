@@ -274,10 +274,11 @@ Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文�
 1. https://tcrf.net/Undertale/Debug_Mode
 2. https://steamcommunity.com/sharedfiles/filedetails/?id=584103897
 3. http://tieba.baidu.com/p/4784165936
-4. Undertale 的制作团队。
+4. http://zh.undertale.wikia.com/
+5. Undertale 的制作团队。
 5. 还有，你。
 
 # 更新日志
 
 2017年5月15日 23点20分 [v1.0] 基本翻译完毕。
-
+2017年5月15日 23点33分 [v1.1] 对照 wiki 修正。
