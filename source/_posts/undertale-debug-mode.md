@@ -247,12 +247,12 @@ Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文�
 | 按键   | 影响                                       |
 | ---- | ---------------------------------------- |
 | C    | 切换 Asriel 四处浮动 / 在屏幕中间静止。                |
-| 空格   | 和 G 相同，但距顶端更近。Asriel 还必须和下面的任意一个按键一起使用。攻击会堆叠并立刻开始。 |
-| G    | 混乱的爆破 / 混乱的爆炸。*Chaos Buster/Chaos Blaster.* |
-| B    | 震惊破坏器 / 震惊破坏器 II。*Shocker Breaker/Shocker Breaker II* |
-| W    | 乱砍 / 乱切。将 FPS 设为 10.                     |
-| S    | 星星燃烧 / 乳汁燃烧。*Star Blazing/Galacta Blazing* |
-| H    | *HYPER GONER*                            |
+| 空格   | 和 G 相同，主要在文本框上部浮动。Asriel 还必须和下面的任意一个按键一起使用。攻击立刻开始，可以叠加。 |
+| G    | 混沌冲击 / 混沌爆发。*Chaos Buster/Chaos Blaster.* |
+| B    | 无尽雷霆 / 无尽雷霆 II。*Shocker Breaker/Shocker Breaker II* |
+| W    | 混沌之刃 / 混沌魔刃。*Chaos Saber/Chaos Slicer* 将 FPS 设为 10.                     |
+| S    | 爆热星辰 / 爆热银河。*Star Blazing/Galacta Blazing* |
+| H    | 终极毁灭。*HYPER GONER*                            |
 
 ### Undyne the Undying
 
@@ -285,3 +285,4 @@ Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文�
 - 2017年5月15日 23点33分 [v1.1.0] 对照 wiki 修正。
 - 2017年5月15日 23点36分 [v1.2.0] 功能 -> 影响。
 - 2017年5月15日 23点48分 [v1.2.1] 普通的格式修改。
+- 2017年5月16日 22点00分 [v1.2.2] 修正 Asriel 攻击名称翻译。
