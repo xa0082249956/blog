@@ -30,39 +30,14 @@ categories:
 
 ## 改错
 
-### 第一句
-
 71 had *`been`*
-
-### 第二句
-
 72 第一个 a -> `an`
 73 week -> `weeks`
-
-### 第三句
-
 74 deep -> `deeply`
-
-### 第四句
-
 75 so -> `because`
 
-### 第五句
-
 76 worrying -> `worried`
-
-### 第六句
-
 77 desperately -> `desperate`
-
-### 第七句
-
 78 it -> `the`
-
-### 第八句
-
 79 has -> `had`
-
-### 第九句
-
 80 ~~of~~
