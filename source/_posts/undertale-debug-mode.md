@@ -1,6 +1,6 @@
 ---
 title: Undertale 的调试模式
-date: 2017-05-15 23:32：21
+date: 2017-05-15 23:32:21
 tags: 
 - undertale
 category: 
