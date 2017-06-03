@@ -15,9 +15,9 @@ before_install:
 - echo "    name = xa0082249956" >> .deploy_git/.git/config
 - echo "    email = 576810415@qq.com" >> .deploy_git/.git/config
 install:
-# - npm install hexo@beta -g
-- npm install -g hexo-cli
-- npm install -g
+- npm install hexo@beta -g
+# - npm install -g hexo-cli
+- npm install
 - npm install hexo-deployer-git --save
 - git config --global user.name 'xa0082249956'
 - git config --global user.emall '576810415@qq.com'
