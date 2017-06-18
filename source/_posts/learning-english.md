@@ -388,7 +388,7 @@ A:	1-4 `ACAD` B:	1-4 `ABDC`
 第四句：`them` → `us`; `that` → `which`
 第五句：`preparing` → `prepare`
 第六句：`In` → `On`; `volunteer` → `volunteers`
-第七句：`amazed` → `amazing`; `去掉 `was`
+第七句：`amazed` → `amazing`; 去掉 `was`
 第八句：`good` 前加 `a`
 #### 书面表达
 本文为提纲类作文。
