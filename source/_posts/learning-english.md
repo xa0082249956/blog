@@ -53,8 +53,7 @@ Energica motors是被禁止在高速路上行驶的。
 23 `D`。细节理解题。由最后一段And it's so lightweight that it can be picked up and carried…可知，
 PTV's是便携式的。
 24 `A`。推理判断题。由第一段… electric cars …
-Here are some models及对各个车的介绍可知，它们都是电动的，所以环保。
-##### B
+Here are some models及对各个车的介绍可知，它们都是电动的，所以环保。###### B
 本文为夹叙夹议文，题材为生活哲理类。生活像镜子，你笑它也笑，你哭它也哭，我们没有理由不过好每一天。
 25 `D`。推理判断题。由第二段收银员的回答I'll have a good day in three hours和Yeah, when I get to leave可知，他对自己的工作很悲观，认为只有离开此工作，才可能有好日子。
 26 `B`。细节理解题。由第三段可知，作者是个具有很强抗压能力的人。
@@ -127,8 +126,7 @@ A:	1-4 `DBCA` B:	1-4 `DBAA`
 2 `B`。推理判断题。由第二段Based on a principle of “take a book, leave a book”…可知，在微型图书馆借书要拿本书来换。
 3 `C`。推理判断题。由第三段“Something we desire in this digital age is that connection between people,”
 Bol said. “I want to show how Little Free Library is about readers inspiring readers inspiring readers. It goes on and on.”可知，其目的是为了加强现代人之间的联系。
-4 `A`。推理判断题。由最后一段For the most part Little Free Libraries have been hugged by their communities可知，微型图书馆受到社区的欢迎。
-##### B
+4 `A`。推理判断题。由最后一段For the most part Little Free Libraries have been hugged by their communities可知，微型图书馆受到社区的欢迎。###### B
 本文为说明文，题材为健康保健类。牛奶巧克力里面含抗氧化剂少，使得它们没有黑巧克力那么健康，现在一些研究人员找到了一种给它们添加抗氧化剂，又不影响它们的口感的方法。
 1 `D`。指代关系题。由第一段If you are like many people, though, you prefer the sweeter, less bitter type.
 That means you're missing out on dark chocolate's heart benefits可知，划线部分是指牛奶巧克力缺少对心脏好的这个益处。
@@ -172,7 +170,7 @@ Li Hua
 Child seats are offered if asked可知，小孩子也可以加入骑自行车环游波士顿之旅。
 22 `B`。细节理解题。由Please note部分的Make your book today and get your e-tickets for the Boston City View Bike Tour online可知，参加者需要提前网上订票。
 23 `C`。推理判断题。本文主要介绍了环波士顿自行车游览的具体信息，是对这一活动的宣传。
-##### B
+###### B
 本文为夹叙夹议文，题材为亲子关系类。作者跟妈妈在性格上很像，她继承了妈妈的个性。
 24 `D`。句意理解题。由第二段No one says, “I know you're Melissa's daughter because of your eyes and nose”; it's the characters that seal the deal可知
 25 `A`。推理判断题。第二段… but I don't allow others to overstep the rules that I've set for myself可知，作者是很有原则的人。
@@ -245,7 +243,7 @@ A:	1-4 `BCDA` B:	1-4 `DCBA`
 3 `D`。推理判断题。分析倒数第二段Nao robots对儿童的各种帮助可知，Nao robots可以让儿童在住院期间过得舒服。
 4 `A`。推理判断题。分析最后一段可知，很多人对Pepper持怀疑态度，Prof. Noel Sharkey也认为Pepper
 的作用被过分渲染了。
-##### B
+###### B
 本文为说明文，题材为人与自然类。人类可以在一定程度上理解动物，但是深入的交流就需要人类能听懂和使用其语言了。
 1 `D`。推理判断题。由第一段可知，动物能很好地利用言语信号来理解人类，但是人类却做不到这一点。要想深入地与动物交流，我们就必须学会动物的语言。由此可知，共同的语言有助于更深地理解对方。
 2 `C`。细节理解题。由第三段… if they go to a door,
@@ -291,7 +289,7 @@ In my opinion, we should not clone the extinct wild animals because it may bring
 可知，the HyperAdapt 1.0s是能自己系带的鞋子。
 23 `C`。细节理解题。由第四段可知，Hello Sense是款有助于帮助人们提高睡眠质量的闹钟。
 24 `A`。推理判断题。自行车头盔可折叠，鞋子会自己系鞋带，闹钟能改善人的睡眠，餐具可以帮助区分盘子和食物并带有吸盘以防止倾倒。由此可推断，这些发明都能使我们的生活更加美好。
-##### B
+###### B
 本文为记叙文，题材为社会文化类。作者来到西班牙之后发现许多地方和自己国家的文化有很大的差异，这包括作息时间及社会风气等。
 25 `B`。推理判断题。由第一段… but my previous expectations have been very different from the reality of Spanish life及下文的介绍可以推知，西班牙的文化让作者感到很难适应。
 26 `D`。细节理解题。由最后一段Perhaps we could say that the rule of politely queuing in Britain is connected with a culture where interacting with people you don't know is less common可知，英国人通常不跟陌生人交流。
@@ -365,7 +363,7 @@ A:	1-4 `ACAD` B:	1-4 `ABDC`
 2 `C`。细节理解题。由第三段It's at this stage that farmers start earning by selling the pupae to the butterfly centre…可知，当蝴蝶的幼虫变成蛹时，养殖蝴蝶的人就可以挣钱了。
 3 `A`。推理判断题。分析最后一段，其中提到的这位蝴蝶养殖者通过养殖蝴蝶增加了收入，乐于养蝴蝶，证明了这个保护森林项目的成功。
 4 `D`。主旨大意题。综合全文，本文主要介绍为了保护Jozani Forest，当地一家蝴蝶繁殖中心所设立的项目。
-##### B
+###### B
 本文为说明文，题材为健康保健类。一种特殊的牙膏可以更好地帮助去除牙垢，从而减少体内的炎症。
 1 `A`。细节理解题。由第二段可知，这款牙膏的一个重要功能就是可以帮助人们更加有效地去除牙垢。
 2 `B`。段落大意题。第三段主要讲述了实验的第二大发现，即使用了这种特殊的牙膏后，人体内的CRP
@@ -408,7 +406,7 @@ That's all. Thank you.
 22 `C`。细节理解题。由第三本书的简介可知，Marisol是一个特立独行的女孩，她知道自己格格不入，却勇敢做自己。由此可知，她非常确定并认同自己的身份。
 23 `D`。细节理解题。由最后一本书简介中的his parents are of different races and cultures可知，这本书关注更多的是由不同种族和文化背景的人组成的家庭。
 24 `A`。推理判断题。由对每本书的介绍可知，这几本书的主角都面临着文化碰撞，甚至语言障碍等问题。
-##### B
+###### B
 本文为夹叙夹议文，题材为励志教育类。洗冷水澡对作者性格的形成有深刻影响，使他学会了如何处理生活中的不适和逆境。
 25 `C`。推理判断题。由第一段I didn't really play much … I had front row tickets to every game — on the bench可知，作者虽然是篮球队的一员，但是他上场并不多，多数时候是替补队员。由此可推知，他的球打得不是特别好。
 26 `A`。推理判断题。由第三段可知，洗冷水澡使作者学会了如何处理不适和逆境，帮助塑造了作者的性格。
@@ -476,7 +474,7 @@ A:	1-4 `DBAC` B:	1-4 `CDAB`
 2 `B`。推理判断题。由第二段The talented animal can greet fans with her snout or wave, thank them with a shake of her tail, and even entertain them with live music on her toy piano…可知，LiLou擅长很多不同的小把戏。
 3 `A`。细节理解题。由第三段Maloney says LiLou underwent the same training as the dogs and only after she passed with flying colors was she included in…可知，LiLou得以加入the Wag Brigade family是因为她接受了和狗一样的训练，之后又成功通过了测试。
 4 `C`。推理判断题。由第四段LiLou's schedule with her handlers is still not set … “We may end up making her visits a surprise.”可推知，LiLou到底什么时候会出现在那个飞机场并不清楚。
-##### B
+###### B
 本文为说明文，题材为环保类。两个高中生通过实验证明河水里的抗菌剂到达一定的量后会对生态系统造成一定的破坏。
 1 `C`。推理判断题。由第一段…worried that triclosan might harm more than germs及第二段If that happens, she worries the rest of the ecosystem might suffer可推知，这两个女孩是想知道抗菌剂是否会对水蚤造成危害，从而影响整个生态系统。
 2 `D`。推理判断题。由第二段“Being at the bottom of the food chain, small young fish eat them,” explains Ella. “That makes water fleas a very important indicator species可知，选水蚤作为研究对象是因为水蚤在生态系统里很重要。
@@ -519,7 +517,7 @@ cameras, smart phones. What's more, it can be used in different parts of the wor
 22 `C`。细节理解题。由第四段可知，Sara MacSorley虽然取得了科学学位，但却致力于教育。由此可知，并非所有科学爱好者最后都会选择进实验室。
 23 `D`。细节理解题。由最后一段… she also runs her own company, Sci Chic, making science- and engineering-inspired jewelry … “I love sewing and have made everything from a Ms. Frizzle costume to a to -patterned dress,”…可知，Erin Winick在时尚方面也颇有造诣。
 24 `B`。推理判断题。文中所提到的四个人有的是在校学生，有的是大学教授，有的利用自己的科学能力做其他事，她们都是科学爱好者。
-##### B
+###### B
 本文为记叙文，题材为科学发明类。美国圣塔克拉拉大学的学生发明了一种能够随着太阳转动的太阳能房屋，极大地提高了太阳能的利用率。
 25 `D`。细节理解题。由第一段第二句可知，目前的太阳能板只能在太阳的直射下才能处于最佳工作状态，每天充分工作的时间只有一两个小时。
 26 `C`。词义猜测题。分析第三段可知，因为the rEvolve house能够随着太阳转动，所以比同样大小的太阳能板多“吸收”30%的能量。
@@ -590,7 +588,7 @@ A:	1-4 `ABCD` B:	1-4 `ADBA`
 2 `B`。推理判断题。由倒数第二段Sometimes the reasons are strange and perhaps not actually true及最后一段…there are also more solutions…These activities are often not popular with the kids, and this may discourage them from playing at all可知，作者对学校对待游戏的做法持怀疑态度。
 3 `C`。推理判断题。由第一段一些游戏被禁止以及最后一段体育活动也越来越少，一些活动规则被限制或者器材被改动可知，孩子们在操场上越发难得到快乐了。
 4 `D`。主旨大意题。文中第一段点明主题：很多小学出于安全考虑，禁止孩子们在操场上玩追逐游戏。
-##### B
+###### B
 本文为说明文，题材为自然地理类。在墨西哥海湾底部发现了一个很奇特的盐水湖，盐水湖的四周居然有生态系统。
 1 `A`。细节理解题。由第一段可知，这个盐水湖因为其恶劣的生存环境而得到了这个绰号。
 2 `D`。句意理解题。由第四段…are able to survive this environment. However, fish and other sea life are not as fortunate可知，这些生物无法在那里生存。
@@ -635,7 +633,7 @@ This novel is really a lot of fun to read. Have a try!
 23 `B`。细节理解题。由第三段However, the place has many active volcanoes like Mount Kilauea可知，
 Kilauea的危险源自于活火山这种自然灾害。
 24 `A`。细节理解题。由第一段If you've booked your trip to one of these places, it might be wise to change your plan可知，该文是针对旅行者的。
-##### B
+###### B
 本文为记叙文，题材为学校教育类。本文主要介绍了美国的一些学校在教给孩子们阅读时采取的一些创新方式。
 25 `B`。细节理解题。由第二段There's an incredibly strong link between oral language development and future reading abilities…to improve literacy…可知，他这样做的目的是提高学生的阅读能力。
 26 `C`。推理判断题。由第四至六段可知，My Baltimore Book与Baltimore City Schools的孩子们的生活相关，通过读这本书，学生们不但能够认识a diverse community这个定义，而且还可以应用到交谈之中了。
@@ -706,7 +704,7 @@ A:	1-4 `BACD` B:	1-4 `BADC`
 2 `A`。细节理解题。由第四段可知，VR技术在各方面皆有应用，而在商业上，即指的是利用这一新技术创造新业绩。
 3 `C`。指代关系题。由该词语境可知，Haulik的意思是，VR给人完全身临其境的感觉，就好像你真的到了现场，但是真要了解该事物，就只能到现场去直接与“现实中的事物”接触。
 4 `D`。推理判断题。由最后一段…and gain a share of what is expected to be a more than $3 billion market by 2020可知，VR未来前景良好。
-##### B
+###### B
 本文为说明文，题材为健康类。研究发现，维他命D可以帮助患乳腺癌的女性康复，但这种维他命还有很多别的好处。
 1 `B`。推理判断题。由第二段In fact, research shows breast cancer patients who have high blood levels of this “sunshine vitamin” have a better prognosis than women who don't可知，这个研究主要发现维他命D对患乳腺癌的女性有益。
 2 `A`。推理判断题。由第四段Getting enough vitamin D is important for normal growth of bones可知，
@@ -752,7 +750,7 @@ Li Hua
 22 `D`。推理判断题。由最后一段可知，作者在第三段介绍自己设计了各种图案旨在说明自己有设计图案的丰富经验。
 23 `C`。细节理解题。由最后一段This is why I why  to improve my skills as a graphic designer. I'm confident that my basic knowledge of the art will serve as a firm foundation for my career in this field可知
 24 `B`。推理判断题。由全文，尤其是最后一句话I hope this provides a suitable base on which you will give me admission to the course in graphic designing in your institute可推断，本文摘自一封申请信。
-##### B
+###### B
 本文为议论文，题材为人生感悟类。本文主要讨论了为什么悲伤是我们的朋友。
 25 `C`。推理判断题。由第四段But it only works if you show up and feel the sadness…可知，作者认为只有坦然面对悲伤才能埋葬旧矛盾、愈合伤口，继而从悲伤中受益。
 26 `A`。细节理解题。作者在第六段说悲伤是真实的，感受悲伤能够让你回到此时此刻，让你无暇担忧待办之事和快节奏的生活，它让你更加关注自己本身、自己的情感以及身边的人。也就是说，悲伤的真实性在于它可以让你活在当下。
@@ -830,7 +828,7 @@ A:	1-4 `DBCA` B:	1-4 `DBCA`
 “startups” often give some of their profits to the incubators if they are successful可知，incubators帮助小公司创业，当小公司成功后从中分红。
 3 `C`。细节理解题。由第五段可知，创业公司想要得到工作室的帮助，其成员中必须有一个是哈佛商学院的毕业生，且公司已经有50万的创业基金。
 4 `A`。推理判断题。分析最后一段，其中提到Joshua Haas和Alex Dulac都是这个项目中的创业者，他们的话证明了这个项目的成功。
-##### B
+###### B
 本文为说明文，题材为考古发现类。一块两百八十万年前的智人下巴骨化石被发现了，这是至今为止发现的最早的智人化石。
 1 `D`。细节理解题。由第一段A lower jaw bone and five teeth discovered on a hillside in Ethiopia belonged to the species Homo, which eventually led to modern humans及第二段The remains are about 400,000 years older than fossils which had held the record as the earliest known samples on the Homo lineage可知，这是至今为止发现的最早的智人化石。
 2 `B`。词义猜测题。这里的the crucial change即指的是上文的a very important but poorly understood period。由此可推知，crucial意为“非常重要的”。
@@ -875,7 +873,7 @@ by letting her go, allowed her to be mine…可知，新娘
 22 `C`。细节理解题题。由第二个故事中的…my son whispered, “Mom! That's the kind of man you should marry!”可知，Daya的儿子喜欢她再婚对象这样的人，也支持她再婚。
 23 `D`。细节理解题。由最后一个故事中的…but not my future grandfather and mother可知，作者讲述的故事发生在他还未出生时，并不是他的亲身经历。
 24 `A`。推理判断题。由第一段可知，文章中的四个小故事是《读者文摘》向读者征集的，四名作者分享了和自己有关的故事，由此推知，它们都是真实的事。
-##### B
+###### B
 本文为说明文，题材为日常生活类。科学的方法对我们并不那么遥远和神秘，我们每天都在不知不觉中使用它。
 25 `C`。主旨大意题。作者在文中要表达的主要意思是:科学的方法距离我们并不遥远，生活中人们往往是在不知不觉中使用了科学的方法。
 26 `B`。词义猜测题。根据该词语境可知，presto意为“立刻、马上”。装上新电池后，手电立刻就亮了。
@@ -947,7 +945,7 @@ A:	1-4 `BDCA` B:	1-4 `BCCD`
 2 `D`。推理判断题。由第二段Since most of Zeng's employees are female, and men and women have different understanding of beauty…可知，她的解释重点在为什么该职位锁定在男士。
 3 `C`。词义猜测题。“首席看脸官”是首次出现的职位，要求高但年薪也高，所以人们对此感到很惊讶，不知道为什么要设置这样一个职位。
 4 `A`。推理判断题。由最后一段He has original ideas on the psychology and aesthetics of women可知，他受到了高度评价。
-##### B
+###### B
 本文为说明文，题材为自然地理类。全球气候变暖影响到了缬草的性别比例，高地上雄性缬草的数量开始增加。
 1 `B`。推理判断题。由第二段Males like it warm and dry. Females prefer it wet and cold可知，在更高的地方由于气温低雌性缬草会比雄性缬草多很多。
 2 `C`。推理判断题。由第二段Males like it warm and dry和第三段But with climate change, warmer weather has been moving slowly up the mountain slopes
@@ -995,7 +993,7 @@ Li Hua
 23 `A`。细节理解题。由第二段This site is focused on helping the 6 million youth volunteer coaches with over 3,500 videos可知，青年教练应该对PlaySportsTV
 网站最感兴趣。
 24 `B`。推理判断题。文章介绍四个网站的时候主要提到了它们都以不同的方式和特色提供了与运动技能有关的指导性内容。
-##### B
+###### B
 本文为记叙文，题材为语言学习类。琼斯在美国马里兰州霍华德社区学院的英语语言中心工作。他指出英语学习者可以通过音调哼唱来改善发音，提高英语水平。
 25 `C`。指代关系题。由第二段划线词之前的Other parts of pronunciation include rhythm, intonation, and word emphasis. Together, they form what we call the music of English可知，单个发音、发音的节奏、语调和单词的重音一起构成了英语音乐。
 26 `D`。推理判断题。由对两个例子的解释可知，第二个例子中coffee一词的音调发生了改变，两个句子的意思就不同了。由此可推知，音调变化能够赋予句子不同的意义。
@@ -1069,7 +1067,7 @@ A:	1-4 `DABC` B:	1-4 `ADAD`
 可知，不同的季节对于辨别鸟巢有很大影响。
 3 `B`。词义猜测题。分析最后一段，通过观察巢穴中鸟蛋的大小、形状和颜色也可以“确定”是什么鸟下的蛋。
 4 `C`。主旨大意题。综合全文，文章第一段提出本文的主题，第二至五段分别从不同的方面介绍如何通过巢穴判断鸟的种类。
-##### B
+###### B
 本文为记叙文，题材为科学发明类。本文讲述了科学家利用人的尿液来生产电。
 1 `A`。推理判断题。由第二段There is no single solution to this ‘energy trilemma' apart from making full use of resources that can be found locally, which include urine可知，他说的话表明这个新技术是解决能源三难困境的一个方案。
 2 `D`。细节理解题。由第三段As urine passes through the fuel cell, it reacts with the bacteria,
@@ -1114,7 +1112,7 @@ Sometimes we don't agree with our parents because they look at things from diffe
 22 `A`。细节理解题。由第三个课程介绍中的…you'll learn how to … getting your message across和最后一个课程介绍中的…share your ideas with others in such a way that they take notice可知，这两个课程都是关于交流技能的。
 23 `C`。细节理解题。根据各个课程的Rating可知，人们对SP Course的评价最高，给了满分。
 24 `B`。推理判断题。由第一段可知，这些课程能够帮助人们提高职业技能，从而改善职场生活。
-##### B
+###### B
 本文为记叙文，题材为亲子关系类。14岁的女儿到了叛逆的年纪，在一次接女儿回家的途中，作者和女儿共度了一段快乐时光。
 25 `A`。细节理解题。由第一段可知，别人告诫作者，他的女儿已经到了叛逆的年龄，她的脾气、性格会发生改变，对此，作者已经做好了准备。
 26 `B`。推理判断题。由第二段It is pleasing for a for  not to be asking her about school or homework or friends, and pleasing for her for a moment not to be talking about any of them可知，作者在汽车里没有对女儿问这问那，只是享受着那刻的宁静。
@@ -1185,7 +1183,7 @@ A:	1-4 `CBAC` B:	1-4 `CBAD`
 3 `A`。推理判断题。由第三段…because as a as , he did not want his star to be walked all over
 可知，拳王阿里不想让自己的“星”被人踩在脚底下，是因为他珍惜自己的冠军荣誉。
 4 `C`。主旨大意题。分析全文，第二段指出好莱坞星光大道的诞生背景，第三段谈到一些在星光大道上留“星”的名人。这都属于星光大道的历史。
-##### B
+###### B
 本文为记叙文，题材为科技发明类。Adidas用3D
 技术生产制作了一些鞋，这些鞋很快销售一空，但是这种鞋价格不菲。
 1 `C`。指代关系题。由第一段Though the 3D printing technology has been here for over two decades,
@@ -1233,7 +1231,7 @@ Li Hua
 22 `B`。细节理解题。由Jenny Zhang简介中的a collection of stories about a group of teenage girls in New York可知，她的书可以让读者了解美国的年轻人。
 23 `C`。细节理解题。由Maxine Beneba Clarke简介中的her novel Foreign Soil (Atria / 37 INK) has won the Debut Fiction Indie Award and the Literary Fiction Book of the Year可知，Foreign Soil是已获奖的作品。
 24 `D`。推理判断题。由四位作家简介中的from which the nominated short story was taken，a collection of stories，her novel和Her great novel可知，文中介绍的她们的书都是小说或是小说集。
-##### B
+###### B
 本文为夹叙夹议文，题材为日常生活类。作者觉得在自己原来的工作中无法获得进步，于是决定自己创业。
 25 `A`。细节理解题。由第一段As the years passed,
 I realized I was just repeating every day可知，因为作者厌倦了日复一日重复的工作，所以决定自己创业。
@@ -1310,7 +1308,7 @@ and “incorrect”可知，他不赞同女性参加奥运会。
 2 `A`。细节理解题。由第二段The 1900 Games saw female athletes included in tennis and golf可知，女性首次被允许参加奥运会是在网球和高尔夫球的运动项目中。
 3 `D`。推理判断题。由第二段可知，1928年之前美国女运动员都未参加奥运会的项目。由第三段首句可知，1928年女性第一次被允许参加奥运田径项目，美国女运动员夺金。由此可知，她们第一次在奥运会上取得金牌是在田径项目中。
 4 `C`。推理判断题。由各段依次出现的时间可知，文章是按照时间的先后顺序展开的。
-##### B
+###### B
 本文为记叙文，题材为新闻类。加州新出台了对于限制电子设备用电的规定。
 1 `C`。细节理解题。由第一段…regulations that limit the amount of energy computers and small servers can use when they are idling, asleep or turned off可知，新的规定旨在减少电脑的耗能。
 2 `B`。推理判断题。由第二段It's common sense that electronic equipment ought to consume the smallest amount of energy when it is not being used以及列举的数据可知，该段强调的是电子设备很浪费能源。
@@ -1355,7 +1353,7 @@ Dakota Johnson对于母亲公开承认没有看过她拍的电影很生气。
 23 `A`。细节理解题。由对Debbie Reynolds和Carrie Fisher介绍中的The pair were distant for a decade …
 However, the pair became so close in later life that they moved next door to each other可知，她们母女俩的关系一度很疏远，后来关系修复了。
 24 `C`。推理判断题。由第一段what Hollywood's mothers and daughters say about each other及下文对各对母女的介绍可知，本文旨在介绍几对好莱坞明星母女的关系。
-##### B
+###### B
 本文为说明文，题材为心理健康类。本文介绍了如何帮助特别害羞的孩子克服自己的害羞，跟其他孩子正常交往。
 25 `D`。句意理解题。分析划线部分之后可知，极度害羞会妨碍孩子身体、心理以及情感等方面的发展，对孩子十分不利。
 26 `B`。细节理解题。由最后一段Remember that shy children feel much more comfortable in one-to-one situations than they do in groups可知，鼓励害羞的孩子跟其他孩子玩耍，但每次跟一个孩子玩耍最好，孩子多了，害羞的孩子会感觉不自在。
