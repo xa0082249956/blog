@@ -126,7 +126,7 @@ A:	1-4 `DBCA` B:	1-4 `DBAA`
 2 `B`。推理判断题。由第二段Based on a principle of “take a book, leave a book”…可知，在微型图书馆借书要拿本书来换。
 3 `C`。推理判断题。由第三段“Something we desire in this digital age is that connection between people,”
 Bol said. “I want to show how Little Free Library is about readers inspiring readers inspiring readers. It goes on and on.”可知，其目的是为了加强现代人之间的联系。
-4 `A`。推理判断题。由最后一段For the most part Little Free Libraries have been hugged by their communities可知，微型图书馆受到社区的欢迎。###### B
+4 `A`。推理判断题。由最后一段For the most part Little Free Libraries have been hugged by their communities可知，微型图书馆受到社区的欢迎。#### B
 本文为说明文，题材为健康保健类。牛奶巧克力里面含抗氧化剂少，使得它们没有黑巧克力那么健康，现在一些研究人员找到了一种给它们添加抗氧化剂，又不影响它们的口感的方法。
 1 `D`。指代关系题。由第一段If you are like many people, though, you prefer the sweeter, less bitter type.
 That means you're missing out on dark chocolate's heart benefits可知，划线部分是指牛奶巧克力缺少对心脏好的这个益处。
@@ -243,7 +243,7 @@ A:	1-4 `BCDA` B:	1-4 `DCBA`
 3 `D`。推理判断题。分析倒数第二段Nao robots对儿童的各种帮助可知，Nao robots可以让儿童在住院期间过得舒服。
 4 `A`。推理判断题。分析最后一段可知，很多人对Pepper持怀疑态度，Prof. Noel Sharkey也认为Pepper
 的作用被过分渲染了。
-###### B
+#### B
 本文为说明文，题材为人与自然类。人类可以在一定程度上理解动物，但是深入的交流就需要人类能听懂和使用其语言了。
 1 `D`。推理判断题。由第一段可知，动物能很好地利用言语信号来理解人类，但是人类却做不到这一点。要想深入地与动物交流，我们就必须学会动物的语言。由此可知，共同的语言有助于更深地理解对方。
 2 `C`。细节理解题。由第三段… if they go to a door,
@@ -363,7 +363,7 @@ A:	1-4 `ACAD` B:	1-4 `ABDC`
 2 `C`。细节理解题。由第三段It's at this stage that farmers start earning by selling the pupae to the butterfly centre…可知，当蝴蝶的幼虫变成蛹时，养殖蝴蝶的人就可以挣钱了。
 3 `A`。推理判断题。分析最后一段，其中提到的这位蝴蝶养殖者通过养殖蝴蝶增加了收入，乐于养蝴蝶，证明了这个保护森林项目的成功。
 4 `D`。主旨大意题。综合全文，本文主要介绍为了保护Jozani Forest，当地一家蝴蝶繁殖中心所设立的项目。
-###### B
+#### B
 本文为说明文，题材为健康保健类。一种特殊的牙膏可以更好地帮助去除牙垢，从而减少体内的炎症。
 1 `A`。细节理解题。由第二段可知，这款牙膏的一个重要功能就是可以帮助人们更加有效地去除牙垢。
 2 `B`。段落大意题。第三段主要讲述了实验的第二大发现，即使用了这种特殊的牙膏后，人体内的CRP
@@ -474,7 +474,7 @@ A:	1-4 `DBAC` B:	1-4 `CDAB`
 2 `B`。推理判断题。由第二段The talented animal can greet fans with her snout or wave, thank them with a shake of her tail, and even entertain them with live music on her toy piano…可知，LiLou擅长很多不同的小把戏。
 3 `A`。细节理解题。由第三段Maloney says LiLou underwent the same training as the dogs and only after she passed with flying colors was she included in…可知，LiLou得以加入the Wag Brigade family是因为她接受了和狗一样的训练，之后又成功通过了测试。
 4 `C`。推理判断题。由第四段LiLou's schedule with her handlers is still not set … “We may end up making her visits a surprise.”可推知，LiLou到底什么时候会出现在那个飞机场并不清楚。
-###### B
+#### B
 本文为说明文，题材为环保类。两个高中生通过实验证明河水里的抗菌剂到达一定的量后会对生态系统造成一定的破坏。
 1 `C`。推理判断题。由第一段…worried that triclosan might harm more than germs及第二段If that happens, she worries the rest of the ecosystem might suffer可推知，这两个女孩是想知道抗菌剂是否会对水蚤造成危害，从而影响整个生态系统。
 2 `D`。推理判断题。由第二段“Being at the bottom of the food chain, small young fish eat them,” explains Ella. “That makes water fleas a very important indicator species可知，选水蚤作为研究对象是因为水蚤在生态系统里很重要。
@@ -588,7 +588,7 @@ A:	1-4 `ABCD` B:	1-4 `ADBA`
 2 `B`。推理判断题。由倒数第二段Sometimes the reasons are strange and perhaps not actually true及最后一段…there are also more solutions…These activities are often not popular with the kids, and this may discourage them from playing at all可知，作者对学校对待游戏的做法持怀疑态度。
 3 `C`。推理判断题。由第一段一些游戏被禁止以及最后一段体育活动也越来越少，一些活动规则被限制或者器材被改动可知，孩子们在操场上越发难得到快乐了。
 4 `D`。主旨大意题。文中第一段点明主题：很多小学出于安全考虑，禁止孩子们在操场上玩追逐游戏。
-###### B
+#### B
 本文为说明文，题材为自然地理类。在墨西哥海湾底部发现了一个很奇特的盐水湖，盐水湖的四周居然有生态系统。
 1 `A`。细节理解题。由第一段可知，这个盐水湖因为其恶劣的生存环境而得到了这个绰号。
 2 `D`。句意理解题。由第四段…are able to survive this environment. However, fish and other sea life are not as fortunate可知，这些生物无法在那里生存。
@@ -704,7 +704,7 @@ A:	1-4 `BACD` B:	1-4 `BADC`
 2 `A`。细节理解题。由第四段可知，VR技术在各方面皆有应用，而在商业上，即指的是利用这一新技术创造新业绩。
 3 `C`。指代关系题。由该词语境可知，Haulik的意思是，VR给人完全身临其境的感觉，就好像你真的到了现场，但是真要了解该事物，就只能到现场去直接与“现实中的事物”接触。
 4 `D`。推理判断题。由最后一段…and gain a share of what is expected to be a more than $3 billion market by 2020可知，VR未来前景良好。
-###### B
+#### B
 本文为说明文，题材为健康类。研究发现，维他命D可以帮助患乳腺癌的女性康复，但这种维他命还有很多别的好处。
 1 `B`。推理判断题。由第二段In fact, research shows breast cancer patients who have high blood levels of this “sunshine vitamin” have a better prognosis than women who don't可知，这个研究主要发现维他命D对患乳腺癌的女性有益。
 2 `A`。推理判断题。由第四段Getting enough vitamin D is important for normal growth of bones可知，
@@ -828,7 +828,7 @@ A:	1-4 `DBCA` B:	1-4 `DBCA`
 “startups” often give some of their profits to the incubators if they are successful可知，incubators帮助小公司创业，当小公司成功后从中分红。
 3 `C`。细节理解题。由第五段可知，创业公司想要得到工作室的帮助，其成员中必须有一个是哈佛商学院的毕业生，且公司已经有50万的创业基金。
 4 `A`。推理判断题。分析最后一段，其中提到Joshua Haas和Alex Dulac都是这个项目中的创业者，他们的话证明了这个项目的成功。
-###### B
+#### B
 本文为说明文，题材为考古发现类。一块两百八十万年前的智人下巴骨化石被发现了，这是至今为止发现的最早的智人化石。
 1 `D`。细节理解题。由第一段A lower jaw bone and five teeth discovered on a hillside in Ethiopia belonged to the species Homo, which eventually led to modern humans及第二段The remains are about 400,000 years older than fossils which had held the record as the earliest known samples on the Homo lineage可知，这是至今为止发现的最早的智人化石。
 2 `B`。词义猜测题。这里的the crucial change即指的是上文的a very important but poorly understood period。由此可推知，crucial意为“非常重要的”。
@@ -945,7 +945,7 @@ A:	1-4 `BDCA` B:	1-4 `BCCD`
 2 `D`。推理判断题。由第二段Since most of Zeng's employees are female, and men and women have different understanding of beauty…可知，她的解释重点在为什么该职位锁定在男士。
 3 `C`。词义猜测题。“首席看脸官”是首次出现的职位，要求高但年薪也高，所以人们对此感到很惊讶，不知道为什么要设置这样一个职位。
 4 `A`。推理判断题。由最后一段He has original ideas on the psychology and aesthetics of women可知，他受到了高度评价。
-###### B
+#### B
 本文为说明文，题材为自然地理类。全球气候变暖影响到了缬草的性别比例，高地上雄性缬草的数量开始增加。
 1 `B`。推理判断题。由第二段Males like it warm and dry. Females prefer it wet and cold可知，在更高的地方由于气温低雌性缬草会比雄性缬草多很多。
 2 `C`。推理判断题。由第二段Males like it warm and dry和第三段But with climate change, warmer weather has been moving slowly up the mountain slopes
@@ -1067,7 +1067,7 @@ A:	1-4 `DABC` B:	1-4 `ADAD`
 可知，不同的季节对于辨别鸟巢有很大影响。
 3 `B`。词义猜测题。分析最后一段，通过观察巢穴中鸟蛋的大小、形状和颜色也可以“确定”是什么鸟下的蛋。
 4 `C`。主旨大意题。综合全文，文章第一段提出本文的主题，第二至五段分别从不同的方面介绍如何通过巢穴判断鸟的种类。
-###### B
+#### B
 本文为记叙文，题材为科学发明类。本文讲述了科学家利用人的尿液来生产电。
 1 `A`。推理判断题。由第二段There is no single solution to this ‘energy trilemma' apart from making full use of resources that can be found locally, which include urine可知，他说的话表明这个新技术是解决能源三难困境的一个方案。
 2 `D`。细节理解题。由第三段As urine passes through the fuel cell, it reacts with the bacteria,
@@ -1183,7 +1183,7 @@ A:	1-4 `CBAC` B:	1-4 `CBAD`
 3 `A`。推理判断题。由第三段…because as a as , he did not want his star to be walked all over
 可知，拳王阿里不想让自己的“星”被人踩在脚底下，是因为他珍惜自己的冠军荣誉。
 4 `C`。主旨大意题。分析全文，第二段指出好莱坞星光大道的诞生背景，第三段谈到一些在星光大道上留“星”的名人。这都属于星光大道的历史。
-###### B
+#### B
 本文为记叙文，题材为科技发明类。Adidas用3D
 技术生产制作了一些鞋，这些鞋很快销售一空，但是这种鞋价格不菲。
 1 `C`。指代关系题。由第一段Though the 3D printing technology has been here for over two decades,
@@ -1308,7 +1308,7 @@ and “incorrect”可知，他不赞同女性参加奥运会。
 2 `A`。细节理解题。由第二段The 1900 Games saw female athletes included in tennis and golf可知，女性首次被允许参加奥运会是在网球和高尔夫球的运动项目中。
 3 `D`。推理判断题。由第二段可知，1928年之前美国女运动员都未参加奥运会的项目。由第三段首句可知，1928年女性第一次被允许参加奥运田径项目，美国女运动员夺金。由此可知，她们第一次在奥运会上取得金牌是在田径项目中。
 4 `C`。推理判断题。由各段依次出现的时间可知，文章是按照时间的先后顺序展开的。
-###### B
+#### B
 本文为记叙文，题材为新闻类。加州新出台了对于限制电子设备用电的规定。
 1 `C`。细节理解题。由第一段…regulations that limit the amount of energy computers and small servers can use when they are idling, asleep or turned off可知，新的规定旨在减少电脑的耗能。
 2 `B`。推理判断题。由第二段It's common sense that electronic equipment ought to consume the smallest amount of energy when it is not being used以及列举的数据可知，该段强调的是电子设备很浪费能源。
