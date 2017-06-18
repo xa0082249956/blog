@@ -32,7 +32,8 @@ http://pan.baidu.com/s/1bppfZob
 第八句：去掉 `to`
 第九句：`solved` 前加 `was`
 #### 书面表达
-本文为开放类作文。One possible version:
+本文为开放类作文。
+One possible version:
 Dear fellow students,
 As World Reading Day is approaching, I would like to appeal to you to do more reading.
 As we all know, reading widely is very beneficial to us. It enriches our lives and broadens our horizons.
@@ -155,7 +156,8 @@ That means you're missing out on dark chocolate's heart benefits可知，划线�
 第七句：去掉第一个 `to`
 第八句：`we` 前加 `can`; `happier` → `happy`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Dear Allan,
 I'm so excited to tell you that I am studying in your country. People of different races, colors, faiths and cultures appear in every corner of the country. You know this is my first time I've been to America, so I so  many questions to ask you.
 My first question is how to make friends with these people. The first impression is so important that I don't want to make a fool of myself in front of my new classmates. Next, which places of interest are well worth a visit? Last but not least, would you please recommend some traditional American food to me?
@@ -273,7 +275,8 @@ they probably want out可知，动物走到门口可能就是想出去了。
 第八句：`has` → `had`
 第九句：去掉 `of`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Recently, the students in my class discussed whether we should clone the extinct wild animals. Our opinions about this issue vary greatly.
 Some students think cloning is beneficial to human beings. By cloning extinct wild animals, there will be a wider variety of animals living on Earth, which helps maintain a better balance between man and nature.
 However, others think differently. They argue it takes a lot of money and manpower to clone extinct wild animals. And the cloned wild animals may have difficulty adapting to the current environment.
@@ -390,7 +393,8 @@ A:	1-4 `ACAD` B:	1-4 `ABDC`
 第七句：`amazed` → `amazing`; `去掉 `was`
 第八句：`good` 前加 `a`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Dear fellow students,
 As we can see, some students continue to work on their lessons during the ten-minute break. There is no doubt that we students should study hard. However, I think it is necessary for us to relax during the ten-minute break because our brain needs relaxation to function well. There are some small activities that can help us to relax. For example, we can have a little walk around to calm our nerves. Climbing the stairs is also a good choice as well as looking out of the window.
 To relax is to learn more efficiently.
@@ -499,7 +503,8 @@ A:	1-4 `DBAC` B:	1-4 `CDAB`
 第七句：`has` → `had`; `heavy` → `heavily`
 第八句：`how` → `what`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Of all the coolest inventions made by students,
 `MOGICS` Power Donut & Bagel invented by Singaporean student Asa Lin proves to be very helpful.
 It is a small power strip. Round in shape, it looks just like a delicious doughnut that we are all familiar with. It is small in size, so we can carry it in our pocket easily.
@@ -612,7 +617,8 @@ A:	1-4 `ABCD` B:	1-4 `ADBA`
 第六句：去掉第一个 `for`; `look` → `looking`
 第七句：`restaurant` → `restaurants`
 #### 书面表达
-本文为半开放型作文。One possible version:
+本文为半开放型作文。
+One possible version:
 I am glad that you are interested in Chinese culture.
 I think the book Journey to the West is a good choice,
 which is one of the Four Great Classical Novels. The story is about a master with his three disciples, who go through various difficulties on their way to the West.
@@ -729,7 +735,8 @@ osteoporosis是一种因为缺少维他命D而影响骨头生长的病。
 第八句：`which` → `what`
 第九句：`for` → `into`
 #### 书面表达
-本文为半开放型作文。One possible version:
+本文为半开放型作文。
+One possible version:
 Dear Mike,
 How is everything? I am eager to tell you the trip I trip  to Dinosaur Park in Henan Province last Sunday.
 At first I was led to a hall where a lot of dinosaur egg fossils were displayed, but I thought there was nothing special about them. I wasn't attracted to the huge but cute species until I watched a short movie about their life. I felt a little sad about dinosaur extinction.
@@ -852,7 +859,8 @@ A:	1-4 `DBCA` B:	1-4 `DBCA`
 第九句：`yourselves` → `yourself`
 第十句：`on` → `in`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 As we all know, many cities in our country are blanketed with haze, especially in winter. One of the factors that account for the problem is the air pollution caused by fireworks.
 There is no doubt that setting off fireworks to celebrate the Spring Festival is a tradition with a long history. Many people think that it can bring good luck and add to the festive atmosphere. But it isn't worth it if we have to celebrate the festival at the cost of our breathing air.
 I think we should celebrate the Spring Festival in other ways. After all, nothing is more important than our health.
@@ -968,7 +976,8 @@ A:	1-4 `BDCA` B:	1-4 `BCCD`
 第八句：`What` → `How`
 第九句：`had` → `has`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Dear Christina,
 I'm writing to ask you to do me a favour. Would you please help me to find an American pen pal? Now I'd like to share my ideas with you.
 I am interested in American culture and plan to further my studies in America after graduating from high school. So I need to find someone with whom I whom  communicate from time to time. I'd like to make friends with a girl, who is	16-18 years old. Hopefully,
@@ -1090,7 +1099,8 @@ producing electricity…可知，尿液跟细菌反应产生电。
 第八句：`website` → `websites`
 第九句：`suggest` → `suggestion`
 #### 书面表达
-本文为开放类作文。One possible version:
+本文为开放类作文。
+One possible version:
 Hi, girl,
 Thank you for your attention to our radio program.
 It is normal for us to have all kinds of trouble as we grow up. Now I'd like to offer you some advice.
@@ -1204,7 +1214,8 @@ it has not gone popular…以及后文的内容可知，这里是指3D技术的�
 第五句：去掉 `of`
 第六句：`her` → `his`; `death` → `die`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Dear Jim,
 Thank you for your novel Gone with the Wind.
 Since you happen to be out, I place it in Room 201,
@@ -1327,7 +1338,8 @@ will outweigh the price increases可知，如果消费者考虑到能源消耗�
 第七句：去掉 `about`
 第九句：`speaking` → `spoken`; `and` → `but`
 #### 书面表达
-本文为提纲类作文。One possible version:
+本文为提纲类作文。
+One possible version:
 Notice In order to develop a sense of responsibility, we are going to visit Red Sun Nursing Home on the morning of next Saturday. We are to set off at 7:30 am at the school gate and go there by bus. We plan to spend about two hours with those old people. The activities include singing, dancing, playing chess and storytelling, etc.
 Anyone who is interested in the activities is welcome to join us. Please sign up at the Students' Union before next Thursday and make careful preparations for it. We are looking forward to your participation!
 Students' Union
