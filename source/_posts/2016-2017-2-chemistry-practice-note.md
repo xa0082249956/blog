@@ -62,13 +62,13 @@ categories:
 >液氯 $\rm Cl_2 $ 为单质。
 >实验室制取氯气
 >$$
->\rm MnO_2 +4\ H{Cl} \stackrel\Delta\longrightarrow MnCl_2+Cl_2+2\ H_2O
+\rm MnO_2 +4\ H{Cl} \stackrel\Delta\longrightarrow MnCl_2+Cl_2+2\ H_2O
 >$$
 >氯气的漂白性-*湿润条件下*
 >$$
->\rm
->Cl_2+H_2O\rightleftharpoons HCl+HClO\\
->HClO \rightleftharpoons HCl +[O]
+\rm
+Cl_2+H_2O\rightleftharpoons HCl+HClO \\\\
+HClO \rightleftharpoons HCl +[O]
 >$$
 >（生成的 ${\rm {[O]}} $ 是游离氧，正是这个游离氧，氧化了有机染料使之褪色）
 >次氯酸的分解反应在光照或受热时速度加快。
@@ -91,7 +91,7 @@ $0.1\ \rm mol\cdot L^{-1} $ 硫化钠溶液中，阴离子总数大于 $0.1\ N_A
 > $m(\rm{aq})=1000\rho $
 > $m({\rm X_2SO_4})=1000\rho\cdot a\%=\frac{M\cdot c}2 $
 > 
-> $\begin{align}S&=\frac{m({\rm X_2SO_4})}{m({\rm aq})-m({\rm X_2SO_4})}\cdot100\\\\&=\frac{100\cdot c M}> {2000\rho-cM}\end{align} $
+> $\begin{align}S&=\frac{m({\rm X_2SO_4})}{m({\rm aq})-m({\rm X_2SO_4})}\cdot100\\\\&=\frac{100\cdot c M}{2000\rho-cM}\end{align} $
 > 
 > $a\%=\frac{M\cdot c}{2000\rho} $
 > $M=\frac{2000\rho\cdot a\%}c $
