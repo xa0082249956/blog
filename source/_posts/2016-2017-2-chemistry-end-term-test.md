@@ -11,8 +11,6 @@ categories:
 
 #### 1
 
-下列关于物质分类的说法正确的是。
-
 金刚石、白磷都属于单质。
 
 >**正确**
@@ -25,19 +23,88 @@ categories:
 >空气中 34℃ 自燃，白色烟雾：$\rm 2\ P_2 + 5\ O_2 \longrightarrow 2\ P_2O_5$
 >也可以发生<span id = "1-1"> [**化学磷光支链反应**](#PChainReaction) </span>。	
 >
+>白磷加热至 400℃ 以下或用紫外光照射可获得**红磷**，在硫，碘或钨丝的催化下加热可加快反应速率。
 >
+>白磷在很高压强(12000 atm)和较高温度下转化为**黑磷**。它有金属光泽，是磷的同素异形体中密度最大、热力学最稳定以及性质最不活泼的一种。它是高聚的不溶性固体。
+>无定形的黑磷 125℃ 时开始向红磷转变。
+>
+>**紫磷**
+>**Monoclinic phosphorus**, or **violet phosphorus**, is also known as **Hittorf's metallic phosphorus**.In 1865, Johann Wilhelm Hittorf heated red phosphorus in a sealed tube at 530 °C. The upper part of the tube was kept at 444 °C. Brilliant opaque monoclinic, or rhombohedral, crystals sublime. Violet phosphorus can also be prepared by dissolving white phosphorus in molten lead in a sealed tube at 500 °C for 18 hours. Upon slow cooling, Hittorf's allotrope crystallises out. The crystals can be revealed by dissolving the lead in dilute nitric acid followed by boiling in concentrated hydrochloric acid. In addition, a fibrous form exists with similar phosphorus cages.
+
+<!-- more -->
+
+~~漂白粉~~，石英都属于纯净物
+
+>**错误**
+>
+>漂白粉是**混合物**，主要成分通常是 $\rm Ca\left(ClO\right)_2$ 或 $\rm Ca\left(ClO\right)Cl$ 。
+>漂白原理：**氧化**。$\rm ClO^-$ 可以产生**氯自由基**——一种能与很多唔知其反应的氧化剂。
+>
+>石英是纯净物还是混合物？
+>[矿物是纯净物还是混合物](https://www.zhihu.com/question/21311152)？
+>水是纯净物还是混合物？
+>
+>> **矿物**是是指在地质作用下天然形成的**结晶状纯净物**（单质或化合物）。**绝对的纯净物是不存在的**，所以这里的纯净物是指物质**化学成份相对单一的物质**。矿物是组成岩石的基础（像石英、长石、方解石都是常见的造岩矿物），但**矿物和岩石不同**，矿物可以用其化学式表示，而岩石是由许多矿物及非矿物所合成，没有一定的化学式。
+>
+>**石英是纯净物**。
+>石英的晶体结构是 $\rm SiO_4$ 硅-氧四面体的连续框架，其中每个氧在两个四面体间共享，得到 $\rm SiO_2$ 的总化学式。
+>
+>{% asset_img Glass_tetrahedon.png "$\\rm SiO_4$ 四面体" %}
+>TODO: 修改图片大小
+
+氯化铵、次氯酸都属于强电解质。
+
+>**错误**
+>
+>**氯化铵**弱电解质，弱酸性。加热时酸性增强。
+>由于铵离子的配位性，氯化铵溶液对金属有腐蚀性，特别对铜腐蚀更大。
+>
+>次氯酸往上看。
+
+葡萄糖、蛋白质属于高分子化合物。
+
+>**错误**
+>
+>葡萄糖 $\rm C_6H_{12}O_6$
+>
+>蛋白质由氨基酸(←单体)脱水缩合而成。
+
+#### 2
+
+现有氮及其化合物的转化关系如下图。
+{% asset_img 2-1.png "图 2-1" %}
+
+路线①②③是工业生产硝酸的主要途径。**正确**
+
+路线 I, II, III 是雷电固氮生成硝酸的主要途径。**正确**
+
+上述所有反应都是 RedOx。**正确**
+
+氮气~~可~~在足量的氨气中通过一步反应生成 $\rm NO_2$。**错误**
+$$
+\rm
+N_2+O_2\longrightarrow 2\ NO \\\\
+2\ NO+O_2\longrightarrow 2\ NO_2
+$$
+
+>分子氮 $\rm N_2$ 的叁键是最强的化学键之一，导致将 $\rm N_2 $ 转化为其他氮化合物**非常困难**，而较容易将化合物形态的氮元素转化为氮单质。后者的转化通常伴有大量能量释放，在自然和人类经济活动中占有重要的地位。
+
+### 
+
+
 
 
 #### <span id = "PChainReaction">化学磷光支链反应</span>
 
 1. 链引发: $\rm P_4+O_2\longrightarrow P_4O+O$
 2. 链传递: $\rm P_4+O+M\longrightarrow P_4O+M$
-3. 链传递: $\rm P_4O_n+O_2\longrightarrow P_4O_{n+1}+O$
+3. 链传递: $ \rm P_4 O_n+O_2 \longrightarrow P_4 O_{n+1} + O $
 4. 链终止: $\rm O+O_2+M\longrightarrow O_3+M$
-5. 消亡: $\rm O+X\longrightarrow 消亡​$
+5. 消亡: $\rm O+X\longrightarrow 消亡$
+
+其中M为其他原子。X为壁或毒物，分别使得自由氧被吸附或形成稳定产物。
 
 [返回](#1-1)
 
 [金刚石]: https://zh.wikipedia.org/wiki/%E9%92%BB%E7%9F%B3
 [白磷]:https://zh.wikipedia.org/wiki/%E7%A3%B7%E7%9A%84%E5%90%8C%E7%B4%A0%E5%BC%82%E5%BD%A2%E4%BD%93#.E7.99.BD.E7.A3.B7
-
