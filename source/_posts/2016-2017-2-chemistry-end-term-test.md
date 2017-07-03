@@ -89,10 +89,27 @@ $$
 
 >分子氮 $\rm N_2$ 的叁键是最强的化学键之一，导致将 $\rm N_2 $ 转化为其他氮化合物**非常困难**，而较容易将化合物形态的氮元素转化为氮单质。后者的转化通常伴有大量能量释放，在自然和人类经济活动中占有重要的地位。
 
-### 
+### 3
 
+分类是化学学习和研究的常用手段。
 
+$\rm H_2O$, $\rm \cancel{HCOOH}$, $\rm \cancel{Cu_2(OH)_2CO_3}$ 均含有氧元素，都是氧化物。
 
+>**错误**
+>
+>氧化物是**负价氧**和另外一个元素组成的**二元化合物**。
+
+$\rm \cancel{HCOOH}$, $\rm H_2CO_3$, $\rm H_2CO_3$ 分子中均含有两个氢原子，都是二元酸。**你很棒棒诶，错误**。
+
+$\rm HF$, $\rm CH_3COOH$, $\rm \cancel{CH_3CH_2OH}$ 都易溶于水，都是电解质。**错误**。
+
+> It is important to realize that a compound may dissolve in water (soluble) but not dissociate into ions. Such compounds do not form ions and thus do not produce electrolytic solutions. They are called non-electrolytes. Examples of non-electrolytes include sugar and **ethanol**.
+
+$\rm HClO$, $\rm H_2SO_4\left(浓\right)$,$\rm HNO_3$ 均具有氧化性，都是氧化性酸。**正确**
+
+> $\rm H_2SO_4\left(稀\right)$ 不是氧化性酸。
+
+#### 4
 
 #### <span id = "PChainReaction">化学磷光支链反应</span>
 
