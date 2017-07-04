@@ -9,10 +9,10 @@ categories:
 - 考试
 ---
 
-$$
-\require{cancel}
-\newcommand{\xato}[1][]{\stackrel{#1}{\longrightarrow}}
 $$ 
+\require{cancel} 
+\newcommand{\xato}[1]{\stackrel{ #1 }{\longrightarrow}} 
+$$
 
 #### 1
 
@@ -144,9 +144,12 @@ $\rm HClO$, $\rm H_2SO_4\left(浓\right)$,$\rm HNO_3$ 均具有氧化性, 都是
 
 #### 5
 
-$\rm 7.8\ g\ Na_2O_2$ 含有的离子键数 $0.2\ N_{\rm A}$, 含有的化学键数 $\tan 90^{\circ}$. 
+$\rm 7.8\ g\ Na_2O_2$ 含有的离子键数 $0.2\ N_{ \rm A } $, 含有的化学键数 $\tan 90^{ \circ }$. 
+
 $\rm 7.8\ g\ Na_2O_2$ 与 $\rm Na_2O_2$ 的混合物, 含离子总数 $0.3\ N_{\rm A}$.
+
 $\rm 7.8\ g\ Na_2O_2$ 与足量 $\rm CO_2$ 充分反应, 转移的电子数 $0.1\ N_{\rm A}$.
+
 $\rm 0.2\ mol\ Na$ 被完全氧化生成 $\rm 7.8\ g\ Na_2O_2$, 转移的电子数目 $0.2\ N_{\rm A}$.
 
 #### 6
@@ -154,7 +157,7 @@ $\rm 0.2\ mol\ Na$ 被完全氧化生成 $\rm 7.8\ g\ Na_2O_2$, 转移的电子�
  向 $\rm Al_2\left(SO_4\right)_3\small{(aq)}$ 中滴加过量的 $\rm NaOH\small{(aq)}$ 制备 $\rm Al\left(OH\right)_3$. 过量→**错误**. 
 
 
- #### <span id = "PChainReaction">化学磷光支链反应</span> 
+#### <span id = "PChainReaction">化学磷光支链反应</span> 
 
 1. 链引发: $\rm P_4+O_2\longrightarrow P_4O+O$
 2. 链传递: $\rm P_4+O+M\longrightarrow P_4O+M$
