@@ -39,3 +39,4 @@ categories:
 
    $ \begin{align} 原式&= \frac{a}{(a-b)(a-c)}+\frac{b}{(b-a)(b-c)}+\frac{c}{(c-a)(c-b)} \cr  &=\frac{(\text{ab}-\text{ac})-(\text{ab}-\text{bc})+(\text{ac}-\text{bc})}{(a-b) (a-c) (b-c)} \cr   &=0\end{align} $
 
+2. 
