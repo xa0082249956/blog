@@ -173,3 +173,44 @@ categories:
 
 [**RNA 聚合酶**](#RNAP): 核糖体 → 细胞质基质 → 细胞核
 
+#### 4
+
+> **生物膜的功能**
+>
+> - 界定一块封闭的空间, 使膜内部能够维持一种与外界不同的生化环境. eg. 膜结合细胞器
+> - 作为代谢反应的场所
+> - 通过膜表面的受体感知信息.
+> - 控制物质的进出.
+>   - 选择透过性
+> - 免疫特性的表达
+>
+> **细胞膜的流动性**
+>
+> In biology, **membrane fluidity** refers to the viscosity of the lipid bilayer of a cell membrane or a synthetic lipid membrane. Lipid packing can influence the fluidity of the membrane. Viscosity of the membrane can affect the rotation and diffusion of proteins and other bio-molecules within the membrane, there-by affecting the functions of these molecules.
+>
+> 在生物学中, **细胞膜的流动性**指细胞膜/磷脂双分子层的粘度. 脂质包装可以影响细胞膜的流动性. 细胞膜的粘度可以影响但报纸和其他膜内生物的旋转和扩散, 从而影响这些分子的功能.
+
+关于生物膜系统的叙述.
+
+小肠粘膜不属于生物膜系统. **正确**
+
+> 小肠粘膜由**小肠粘膜上皮细胞**组成, 不属于生物膜系统.
+
+生物膜的组成和成分结构相似, 结构和功能上紧密联系. **正确**
+
+> **结构特性**
+> <font size="33">流动性</font>
+>
+> **功能特性**
+> <font size="33">选择透过性</font>
+
+细胞膜可以提高细胞内化学反应的速率. **错误**
+
+> 细胞膜上有酶, 这个没问题.
+> $\rm Na^+-K^+$ 泵将 $\rm Na^+$ 移向细胞外, $\rm K^+$ 移向细胞内.
+> 这种运输是一个耗能的过程, 并由 $\rm Na^+$ 和 $\rm K^+$ 激活<u>细胞膜上的 ATP 酶</u>分解 ATP 而提供所需的能量.
+>
+> 但是 细胞膜 上的酶与 细胞内 的化学反应速率无关.
+
+不同生物膜上的蛋白质的种类和数量有差异. **正确**
+
