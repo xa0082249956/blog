@@ -6,7 +6,6 @@ tags:
 categories:
 - 高考
 - 化学
-- 考试
 ---
 
 $$ 
