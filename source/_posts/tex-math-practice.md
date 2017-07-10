@@ -1,7 +1,8 @@
 ---
 title: TeX 公式输入练习
 date: 2017-05-04 23:18:23
-tags: LaTeX
+categories: 
+- LaTeX
 ---
 
 > qwqqqq 这样排版好丑
