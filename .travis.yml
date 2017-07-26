@@ -16,7 +16,9 @@ before_install:
 - echo "    email = 576810415@qq.com" >> .deploy_git/.git/config
 install:
 - npm install hexo@beta -g
-# - npm install -g hexo-cli
+- npm install hexo-cli -g
+- npm uninstall hexo-renderer-marked --save
+- npm install hexo-renderer-pandoc --save
 - npm install
 - npm install hexo-deployer-git --save
 - git config --global user.name 'xa0082249956'
