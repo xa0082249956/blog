@@ -30,7 +30,8 @@ categories:
 - `\paragraph{<title>}`
 - `\subparagraph{<title>}`
 
-`\part` 用以将整个文档分割为大的分块，但不影响 `\chapter` 或 `section` 等的编号。
+`\part` 用以将整个文档分割为大的分块，但不影响
+`\chapter` 或 `section` 等的编号。
 
 ##### `article` 带编号的层级
 - `\section`
@@ -46,7 +47,7 @@ categories:
 ```tex
 \tableofcontents
 ```
->**注意**
+>**注意**\
 >正确生成目录项，一般需要**编译两次源代码**
 
 有时使用了 `\chapter*` 或 `\section*` 这样不生成目录项的章节标题命令，而又想手动生成该章节的目录项，可在标题后使用
@@ -57,17 +58,17 @@ categories:
 `<title>` 为出现于目录项的章节标题。
 
 #### 结构划分
-- `\appendix` 附录
+- `\appendix` 附录\
   使用后，最高一级章节使用拉丁字母编号，从 A 开始。
 - `book` 类专用命令
-    - `\frontmatter` 前言部分。
-      页码为小写罗马字母格式。
+    - `\frontmatter` 前言部分。\
+      页码为小写罗马字母格式。\
       其后的 `\chapter` 不编号。
-    - `\mainmatter` 正文部分。
-      页码为阿拉伯数字格式，从 1 开始。
+    - `\mainmatter` 正文部分。\
+      页码为阿拉伯数字格式，从 1 开始。\
       其后的 `\chapter` 编号正常。
-    - `\backmatter` 后记部分。
-      页码格式不变，继续正常计数。
+    - `\backmatter` 后记部分。\
+      页码格式不变，继续正常计数。\
       其后的 `\chapter` 不编号。
 
 ### 标题页
