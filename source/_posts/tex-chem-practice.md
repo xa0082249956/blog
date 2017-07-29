@@ -5,9 +5,9 @@ categories:
 - LaTeX
 ---
 
-使用 `\rm` 输出正体字母。
-使用 `\stackrel` 添加反应条件。
-或使用 `\xrightarrow[下标]{上标}`。
+使用 `\rm` 输出正体字母。\
+使用 `\stackrel` 添加反应条件。\
+或使用 `\xrightarrow[下标]{上标}`。\
 `~` 表示空格。
 
 1. 湿法冶金

@@ -5,19 +5,19 @@ tags:
 - Android
 ---
 
-> 看到设备管理器里的 Qualcomm 9008 
+> 看到设备管理器里的 Qualcomm 9008 \
 > 你有些不知所措……但你还是充满了决心
 
 <!-- more -->
 
 # 准备
 
-- 驱动: https://www.androidfilehost.com/?fid=24052804347799753
+- 驱动: [https://www.androidfilehost.com/?fid=24052804347799753]()
 - 恢复工具
-  - Oneplus 3 Mini / 不含系统: https://www.androidfilehost.com/?fid=24591000424942611
-  - Oneplus 3 Full / 含 Oxygen OS 3.1.2: https://www.androidfilehost.com/?fid=24591000424942573
-  - Oneplus 3T: https://mega.nz/#!Q1YnTTAT!gnLf6NEkSRy7W-WY8J0H2SmJJLzO91-vReKx7B1VVpI
-- / 可能需要 / DPInst.zip: http://pan.baidu.com/s/1slWAxp7
+  - Oneplus 3 Mini / 不含系统: [https://www.androidfilehost.com/?fid=24591000424942611]()
+  - Oneplus 3 Full / 含 Oxygen OS 3.1.2: [https://www.androidfilehost.com/?fid=24591000424942573]()
+  - Oneplus 3T: [https://mega.nz/#!Q1YnTTAT!gnLf6NEkSRy7W-WY8J0H2SmJJLzO91-vReKx7B1VVpI]()
+- / 可能需要 / DPInst.zip: [http://pan.baidu.com/s/1slWAxp7]()
 
 # 开始
 
@@ -40,14 +40,15 @@ tags:
 0. 请尝试长按 `电源键` + `上音量键` 持续 20 秒以上，再检查设备管理器。
 1. 确保已禁用驱动数字签名验证。
 2. 尝试这些驱动:
-   - https://www.androidfilehost.com/?fid=24052804347799753
-   - https://www.androidfilehost.com/?fid=24269982086990168
-   - https://www.androidfilehost.com/?fid=24349802275800175
-   - https://www.androidfilehost.com/?fid=24349802275800173
-   - https://www.androidfilehost.com/?fid=24349802275800171
+   - [https://www.androidfilehost.com/?fid=24052804347799753]()
+   - [https://www.androidfilehost.com/?fid=24269982086990168]()
+   - [https://www.androidfilehost.com/?fid=24349802275800175]()
+   - [https://www.androidfilehost.com/?fid=24349802275800173]()
+   - [https://www.androidfilehost.com/?fid=24349802275800171]()
 
-> **这些内容可能已经失效了**
+> **这些内容可能已经失效了**\
 > 下载 [这个文件好像不存在了](http://www.mediafire.com/download/4a...6wc67/Qualcomm 1.00.11.rar)
+> 
 > 1. 确认手机已经和电脑断开连接。
 > 2. 打开文件夹 `qc` 并安装证书到 `受信任的根证书颁发机构`，`受信任的发布者`，`第三方根证书颁发机构`。
 > 3. 运行文件夹中的 `Qualcomm setup wizard `
@@ -59,8 +60,8 @@ tags:
 4. 在设备管理器中你的设备上右键，选择 `更新驱动程序软件`，手动安装刚才下载的 .inf 文件。
 
 ### 上面的方法没能解决？
-我……可能……帮不了你了……
-你可以去 xda-developers 找找看。
+我……可能……帮不了你了……\
+你可以去 xda-developers 找找看。\
 或者去一加论坛试试。
 
 # 参考与致谢

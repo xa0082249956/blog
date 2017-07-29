@@ -15,11 +15,12 @@ categories:
 
 #### 章节划分
 适用于标准文档类。
+
 - `\chapter{<title>}` - 只在 **`book` 和 `report`** 文档中有定义。
     - `\chapter[<short title>]{<title>}`
     - `\chapter*{<title>}*`
-    `short title` 用于页眉和页脚。
-    `\chapter*` 不带编号，也不生成目录项和页眉页脚。
+    - `short title` 用于页眉和页脚。
+    - `\chapter*` 不带编号，也不生成目录项和页眉页脚。
 - `\section{<title>}`
     - `\section[<short title>]{<title>}`
     - `\section*{<title>}*`
