@@ -8,6 +8,14 @@ categories:
 - 化学
 ---
 
+{% note info %}
+
+<h4>未完成过的项目</h4>
+
+该项目目前并未完成，以后也不一定会完成了。
+
+{% endnote %}
+
 $$ 
 \require{cancel} 
 \newcommand{\xato}[1]{\stackrel{ #1 }{\longrightarrow}} 

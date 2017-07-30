@@ -2,6 +2,9 @@
 title: 将 Pandoc 作为 Hexo Markdown 渲染引擎
 date: 2017-07-26 10:07:01
 categories:
+tags:
+- Pandoc
+- Hexo
 ---
 
 # 为什么使用 Pandoc

@@ -6,8 +6,22 @@ categories:
 - learning_english
 ---
 
-> 现在，所有的答案，都在这里了。
+{% note %}
 
+<h4> 过期的项目？ </h4>
+该项目曾经有用，以后依然有用。
+
+{% endnote %}
+
+{% note danger %}
+
+<h4> 格式问题 </h4>
+该项目未被修改以适合 Pandoc's Markdown 渲染引擎渲染。
+无论如何，你仍然可以查看它的源代码。
+
+{% endnote %}
+
+```markdown
 # PDF 版本
 http://pan.baidu.com/s/1bppfZob
 密码 `xa33`
@@ -1428,3 +1442,5 @@ which。
 张颖
 ## MAINWORLD
 此刻，看着屏幕上文字的你。
+
+```
