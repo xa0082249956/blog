@@ -1,9 +1,9 @@
 ---
-title: LaTeX 学习笔记 (1)
+title: $\rm \LaTeX$ 学习笔记 (1)
 date: 2017-07-10 21:14:54
 tags:
 categories:
-- LaTeX
+- $\rm \LaTeX$
 ---
 
 ## 文档元素

@@ -1,8 +1,8 @@
 ---
-title: TeX 公式输入练习
+title: $\rm \LaTeX$ 公式输入练习
 date: 2017-05-04 23:18:23
 categories: 
-- LaTeX
+- $\rm \LaTeX$
 ---
 
 > qwqqqq 这样排版好丑\

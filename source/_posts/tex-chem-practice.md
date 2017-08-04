@@ -2,7 +2,7 @@
 title: 化学方程式输入练习
 date: 2017-06-03 23:02:21
 categories: 
-- LaTeX
+- $\rm \LaTeX$
 ---
 
 使用 `\rm` 输出正体字母。\

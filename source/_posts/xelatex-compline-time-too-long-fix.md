@@ -1,9 +1,9 @@
 ---
-title: 修复 XeLaTeX 编译时间过长的问题
+title: 修复 $\rm XeLaTeX$ 编译时间过长的问题
 date: 2017-07-10 20:48:24
 tags:
 categories: 
-- LaTeX
+- $\rm \LaTeX$
 ---
 
 XeLaTeX 编译过长的一般原因是找不到字体。\
