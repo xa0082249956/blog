@@ -161,6 +161,191 @@ Response:
 </ul>
 ```
 
+##### seriesList
+
+Body:
+--------------------------- ---------------
+`date`                      (UNIX timestamp)
+`series`                    (int)
+`showAll`                   (bool) 显示全部
+--------------------------- ---------------
+
+Response:
+```xml
+<ul>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(1000)" align="left">
+		<img id="sign_1000" name="sign_1000" src="/images/icon5.gif" style="margin:0 1px"> 
+		牛津上海版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_1000" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(988)" align="left">
+		<img id="sign_988" name="sign_988" src="/images/icon5.gif" style="margin:0 1px"> 
+		中等职教版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_988" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(966)" align="left">
+		<img id="sign_966" name="sign_966" src="/images/icon5.gif" style="margin:0 1px"> 
+		新世纪版高中英语 
+	</a>
+ </li>
+  	<div class="program-li" id="div_966" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(942)" align="left">
+		<img id="sign_942" name="sign_942" src="/images/icon5.gif" style="margin:0 1px"> 
+		牛津译林版(第3版) 
+	</a>
+ </li>
+  	<div class="program-li" id="div_942" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(927)" align="left">
+		<img id="sign_927" name="sign_927" src="/images/icon5.gif" style="margin:0 1px"> 
+		人教社新课标（第2版） 
+	</a>
+ </li>
+  	<div class="program-li" id="div_927" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(915)" align="left">
+		<img id="sign_915" name="sign_915" src="/images/icon5.gif" style="margin:0 1px"> 
+		重庆课标版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_915" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(914)" align="left">
+		<img id="sign_914" name="sign_914" src="/images/icon5.gif" style="margin:0 1px"> 
+		牛津译林版(2010) 
+	</a>
+ </li>
+  	<div class="program-li" id="div_914" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(246)" align="left">
+		<img id="sign_246" name="sign_246" src="/images/icon5.gif" style="margin:0 1px"> 
+		高考词汇 
+	</a>
+ </li>
+  	<div class="program-li" id="div_246" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(910)" align="left">
+		<img id="sign_910" name="sign_910" src="/images/icon5.gif" style="margin:0 1px"> 
+		高考考纲（新课标） 
+	</a>
+ </li>
+  	<div class="program-li" id="div_910" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(303)" align="left">
+		<img id="sign_303" name="sign_303" src="/images/icon5.gif" style="margin:0 1px"> 
+		北师大课标版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_303" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(300)" align="left">
+		<img id="sign_300" name="sign_300" src="/images/icon5.gif" style="margin:0 1px"> 
+		外研社新标准(2009) 
+	</a>
+ </li>
+  	<div class="program-li" id="div_300" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(263)" align="left">
+		<img id="sign_263" name="sign_263" src="/images/icon5.gif" style="margin:0 1px"> 
+		牛津版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_263" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(242)" align="left">
+		<img id="sign_242" name="sign_242" src="/images/icon5.gif" style="margin:0 1px"> 
+		词组 
+	</a>
+ </li>
+  	<div class="program-li" id="div_242" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(51)" align="left">
+		<img id="sign_51" name="sign_51" src="/images/icon5.gif" style="margin:0 1px"> 
+		外研社新标准 
+	</a>
+ </li>
+  	<div class="program-li" id="div_51" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(5)" align="left">
+		<img id="sign_5" name="sign_5" src="/images/icon5.gif" style="margin:0 1px"> 
+		人教社统编版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_5" style="display:none" loaded="none">
+  	 
+  	</div>
+
+ <li align="left">
+	<a href="#" onclick="ShowSubProgram(6)" align="left">
+		<img id="sign_6" name="sign_6" src="/images/icon5.gif" style="margin:0 1px"> 
+		人教社课标版 
+	</a>
+ </li>
+  	<div class="program-li" id="div_6" style="display:none" loaded="none">
+  	 
+  	</div>
+
+</ul>
+```
+
+#### unit_frame.jsp
+
+--------------------------- ---------------
+`progname`                  计划名称
+`learnMode` = learning      学习模式
+--------------------------- ---------------
+
+> `http://192.168.10.113/InitStudy/chinese/unit_frame.jsp?progName=CN-GaoZhongKGbk1&learnMode=learning`
+
 ### servlet
 
 #### WordBuilderHTTP
@@ -261,6 +446,25 @@ AnotherResponse:
 `cmd` = updateSpellStatus   命令：更新拼写状态
 `program`                   计划
 `wordIndex`                 (int) 单词索引
+--------------------------- ---------------
+
+## quiz
+
+### quiz\_normal\_prompt.jsp
+
+--------------------------- ---------------
+`quizTypeId`                (int) 测试类型
+`program`                   计划
+`unit_name`                 单元名称
+--------------------------- ---------------
+
+> `http://192.168.10.113/InitStudy/quiz/quiz_normal_prompt.jsp?quizTypeId=8&program=CN-GaoZhongKGbk1&unit_name=unit%206`
+
+### quiz\_unit\_prompt.jsp
+--------------------------- ---------------
+`type`                      (int) (?)
+`program`                   计划
+`unit_name`                 单元名称
 --------------------------- ---------------
 
 ## css
@@ -444,7 +648,24 @@ CSS 文件 .
 
 $\alpha$脑波音乐，休息时播放。
 
+文件名               音乐名                       作者
+------------------- -------------------------   -------
+`wave1.mp3`         WALKING IN THE AIR          Chloe Agnew
+`wave2.mp3`         めぐる季節                   Joe Hisaishi
+`wave3.mp3`         蓝色的爱                    Richard Clayderman
+`wave4.mp3`         拥有Masbfca (广告配乐完整版) 几米
+`wave5.mp3`         WALKING IN THE AIR          Chloe Agnew
+------------------- -------------------------   -------
+
+我知道你在想什么.\
+wave1 和 wave 5 完全一样.
+
 ## sound
+
+### multi_sound_file
+
+(单词).swf
+用来存储大小写等等都一样但不是一个单词的发音.
 
 ### swf-b
 
@@ -455,7 +676,7 @@ $\alpha$脑波音乐，休息时播放。
 
 ### newExampleSound
 
-(句子).swf\
+(前两个字母)\(句子).swf\
 全小写，空格用 `_` 代替.
 
 > `http://192.168.10.113/sound/newExampleSound/th/the_boat_sank_beneath_the_waves.swf`
