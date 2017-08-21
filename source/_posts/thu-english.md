@@ -7,6 +7,8 @@ categories:
 - hacking
 ---
 
+# 网页内容
+
 ## InitStudy
 
 ### chinese
@@ -458,6 +460,7 @@ AnotherResponse:
 `unit_name`                 单元名称
 --------------------------- ---------------
 
+
 > `http://192.168.10.113/InitStudy/quiz/quiz_normal_prompt.jsp?quizTypeId=8&program=CN-GaoZhongKGbk1&unit_name=unit%206`
 
 ### quiz\_unit\_prompt.jsp
@@ -689,3 +692,112 @@ wave1 和 wave 5 完全一样.
 全小写，空格用 `_` 代替。
 
 > `http://192.168.10.113/jpg_images/jpg-b/beneath.jpg`
+
+
+## InitTeach
+
+> `http://192.168.10.113/InitTeach/manager/login.jsp`
+
+# 对应数据
+
+## quizTypeId
+
+quizTypeId					解释
+--------------------------- ---------------
+1							四维测试
+2							效果测试
+3							学前测试
+4							学后测试
+5							智能听写生词测试
+6							(???)
+7							智能默写生词测试
+8							智能记忆闯关测试
+11							(???)
+12							(???)
+13							(???)
+10							熟词测试
+14							考试中心组卷测试
+15							智能听写闯关测试
+16							已学单词测试
+17							听力测试 (`/InitStudy/sentenceInit/listen/listenQuiz.jsp`)
+18							翻译测试 (`/InitStudy/sentenceInit/translate/translateQuiz.jsp`)
+21							(???)
+22							智能默写闯关测试
+
+
+```javascript
+if (quizTypeId == 17) {
+    url = "/InitStudy/sentenceInit/listen/listenQuiz.jsp?"
+        + "programName=" + programName
+        + "&unitName=" + unitName
+        + "&userId=" + userId
+        + "&quizTypeId=" + quizTypeId
+        + "&passScore=" + passScore
+        + "&t=" + (new Date().getTime())//解决缓存问题
+        + "&listenViewed=" + 0;
+} else if (quizTypeId == 18) {
+    url = "/InitStudy/sentenceInit/translate/translateQuiz.jsp?"
+        + "programName=" + programName
+        + "&unitName=" + unitName
+        + "&userId=" + userId
+        + "&quizTypeId=" + quizTypeId
+        + "&passScore=" + passScore
+        + "&t=" + (new Date().getTime())//解决缓存问题
+        + "&translateViewed=" + 0;
+} else {
+    url = "/InitStudy/rest/quiz/autopaper?"
+        + "programName=" + programName
+        + "&unitName=" + unitName
+        + "&userId=" + userId
+        + "&quizTypeId=" + quizTypeId
+        + "&studyId=" + studyId
+        + "&wordViewed=" + wordViewed
+        + "&t=" + (new Date().getTime());//解决缓存问题
+    if ("" != "") {
+        url += "&currentTime=";
+    }
+}
+```
+
+## 金币计算
+
+### 测试
+
+```javascript
+var thisGold = parseInt(spentTime / 60) + parseInt(spentTime / (60 * 15) * 10) + quizIntegral;
+// 金币数 = 花费时间 / 60 + 花费时间 / 900 * 10 + 
+```
+
+```javascript
+case 8:     //智能记忆 闯关
+case 15:  // 智能听写 闯关
+case 22: //智能默写 闯关
+    if (score >= 90) { // 闯关成功 ，更新单元状态
+        if (0 >= 90) {
+            if (score > 0) {//重复闯关成功
+                tipsMsg += "又创佳绩！佩服佩服！";
+                quizIntegral += 10;
+                jQuery("#tipsImage_top,#tipsImage_bottom").attr("src", "/images/biaoqing-98.jpg");
+            } else {
+                if (score == 100 && 0 == 100) {
+                    tipsMsg += "战无不胜，攻无不克！";
+                    jQuery("#tipsImage_top,#tipsImage_bottom").attr("src", "/images/biaoqing-98.jpg");
+                } else {
+                    tipsMsg += "挑战失败！不要灰心，再试一次吧！";
+                    jQuery("#tipsImage_top,#tipsImage_bottom").attr("src", "/images/biaoqing-68.jpg");
+                }
+            }
+        } else {//首次闯关成功
+            tipsMsg += "闯关成功！膜拜，大神！";
+            quizIntegral += 10;
+            jQuery("#tipsImage_top,#tipsImage_bottom").attr("src", "/images/biaoqing-98.jpg");
+        }
+    } else {
+        tipsMsg += "不要灰心，再试一次吧！";
+        jQuery("#tipsImage_top,#tipsImage_bottom").attr("src", "/images/biaoqing-18.jpg");
+    }
+    jQuery("#quizAgainTop,#quizAgainBottom").show();
+    break;
+```
+
+> 我不知道这里为什么会有 0，但是有种感觉这和上一次成绩有关。
