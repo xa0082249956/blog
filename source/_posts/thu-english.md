@@ -382,19 +382,19 @@ Response:
 Response: 
 ```html
 <WordReply 
-mode="learning"         模式
+mode="learning"         学习模式
 engineGear="4"          引擎等级
-timespent="456"         已花费的时间
-wordimage="no"          有配图？
+timespent="456"         已花时间
+wordimage="no"          是否配图
 learned="20"            已学习的
 reviewed="0"            已复习的
-wordsdropped="31"       ？？？
+wordsdropped="31"       不用管的
 spelling="scarf"        拼写
 syllable="sk1:f"        音标
-soundmark=""            ？？？
-meaning=""              意思？
+soundmark=""            声标
+meaning=""              意思
 meaning2="n.围巾；头巾；领巾" 
-                        第二个意思？
+                        第二个意思（一般用这个）
 soundfile="http://192.168.10.113/sound/swf-s/scarf.swf" 
                         声音文件
 jpgfile="http://192.168.10.113/jpg_images/jpg-s/scarf.jpg" 
@@ -670,9 +670,9 @@ wave1 和 wave 5 完全一样.
 (单词).swf
 用来存储大小写等等都一样但不是一个单词的发音.
 
-### swf-b
+### swf-`.`
 
-(单词).swf\
+(单词首字母)\(单词).swf\
 全小写，空格用 `_` 代替.
 
 > `http://192.168.10.113/sound/swf-b/beneath.swf`
@@ -686,9 +686,9 @@ wave1 和 wave 5 完全一样.
 
 ## jpg_images
 
-### jpg-b
+### jpg-`.`
 
-(单词).jpg\
+(单词首字母)\(单词).jpg\
 全小写，空格用 `_` 代替。
 
 > `http://192.168.10.113/jpg_images/jpg-b/beneath.jpg`
@@ -768,6 +768,9 @@ var thisGold = parseInt(spentTime / 60) + parseInt(spentTime / (60 * 15) * 10) +
 // 金币数 = 花费时间 / 60 + 花费时间 / 900 * 10 + 
 ```
 
+> 对于 **智能记忆闯关**、**智能听写闯关** 和 **智能默写闯关**，当成绩大于 90 时，如果
+这是第一次做这个测试 或 本次成绩好与上一次成绩，则可多获得 10 金币。
+
 ```javascript
 case 8:     //智能记忆 闯关
 case 15:  // 智能听写 闯关
@@ -800,4 +803,11 @@ case 22: //智能默写 闯关
     break;
 ```
 
-> 我不知道这里为什么会有 0，但是有种感觉这和上一次成绩有关。
+当且仅当做一道题的时间处于 0s - 30s 之间时，做这道题的时间才加入 spentTime 中。\
+换句话说，如果做一道题的时间超过 30s，这道题就得不了金币 —— 虽然它不影响分数。
+
+```javascript
+if(addTime > 0 && addTime < 30){
+	spentTime += addTime;
+}
+```
