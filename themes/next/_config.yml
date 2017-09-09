@@ -47,10 +47,11 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   # home: /
-  categories: /categories
+  # categories: /categories
   about: /about
-  archives: /archives
-  tags: /tags
+  # archives: /archives
+  # tags: /tags
+  quicknote: /quicknote
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -70,15 +71,15 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
+  quicknote: sticky-note
 
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
-#scheme: Mist
+# scheme: Muse
+# scheme: Mist
 scheme: Pisces
 
 
@@ -184,8 +185,8 @@ auto_excerpt:
 # Post meta display settings
 post_meta:
   item_text: true
-  created_at: true
-  updated_at: false
+  # created_at: true
+  updated_at: true
   categories: true
 
 # Post wordcount display settings
@@ -495,7 +496,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+# pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
