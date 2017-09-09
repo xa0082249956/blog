@@ -5,7 +5,7 @@ date:
 tags:
 ---
 
-> 用来记录一些没有必要写成一篇文章，但总会需要的东西。
+> 用来记录一些没有必要写成一篇文章，但总会需要的东西。\
 > 用 `Ctrl` + `F` 来快速查找。
 
 <!-- more -->
@@ -46,8 +46,6 @@ aira2c -Z [URLA] [URLB]
 
 <http://blog.sina.com.cn/s/blog_736f1c59010136ry.html>
 
-{% spoiler 内容 %}
-
 `:s/vivian/sky/`\
 替换当前行第一个 `vivian` 为 `sky`
 
@@ -75,9 +73,6 @@ aira2c -Z [URLA] [URLB]
 
 `:%s+/oradata/apras/+/user01/apras1+` (使用 `+` 来 替换 `/` )\
 `/oradata/apras/` 替换成 `/user01/apras1/`
-
-{% endspoiler %}
-
 
 ## Linux
 
