@@ -42,6 +42,12 @@ aira2c -Z [URLA] [URLB]
 
 ## vi
 
+### 跳转
+
+#### 跳到最后
+
+    G
+
 ### 替换
 
 <http://blog.sina.com.cn/s/blog_736f1c59010136ry.html>
