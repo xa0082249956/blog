@@ -76,6 +76,10 @@ aira2c -Z [URLA] [URLB]
 
 ## Linux
 
+## 实时查看文件
+
+    tail --follow /var/log/syslog
+
 ## 字体
 ### 位置
 
