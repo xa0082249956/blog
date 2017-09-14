@@ -82,19 +82,23 @@ aira2c -Z [URLA] [URLB]
 
 ## Linux
 
-## 实时查看文件
+### 标记安装包为自动安装
+
+    sudo apt mark auto xxxxxx
+
+### 实时查看文件
 
     tail --follow /var/log/syslog
 
-## 字体
-### 位置
+### 字体
+#### 位置
 
-#### 定义位置
+##### 定义位置
 
     /etc/fonts/fonts.conf
     /etc/fonts/local.conf
 
-#### 存储位置
+##### 存储位置
 
     /usr/share/fonts/
     /usr/local/share/fonts
@@ -110,3 +114,18 @@ aira2c -Z [URLA] [URLB]
 #### 安装 TexLive
 
 <https://tex.stackexchange.com/questions/1092/how-to-install-vanilla-texlive-on-debian-or-ubuntu/95373#95373>
+
+## TeX
+
+### \newif
+
+TeX 中的                 C++ 对应
+----------------------- -----------------
+`\newif\ifabc`          `bool abc;`
+`\abctrue`              `abc = true; `
+`\abcfalse`             `abc = false;`
+`\ifabc`                `if (abc) {`
+`    abc is true`       `    cout << "abc is true";`
+`\else`                 `} else {`
+`    abc is false`      `    cout << "abc is false"; `
+`\fi`                   `}`
