@@ -60,7 +60,7 @@ index_with_subtitle: false
 menu:
   # home: / || home
   about: /about/ || user
-  quicknote: /quicknote || sticky-note
+  quicknote: /quicknote/ || sticky-note
   #tags: /tags/ || tags
   #categories: /categories/ || th
   # archives: /archives/ || archive
@@ -79,9 +79,9 @@ menu_icons:
 
 # Schemes
 # scheme: Muse
-#scheme: Mist
-scheme: Pisces
-#scheme: Gemini
+# scheme: Mist
+# scheme: Pisces
+scheme: Gemini
 
 
 # ---------------------------------------------------------------

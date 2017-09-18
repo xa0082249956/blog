@@ -5,9 +5,10 @@
 
 // Placeholder: $code-block
 $code-block {
+  border-radius: 1px;
   overflow: auto;
   margin: 20px 0;
-  padding: 0;
+  padding: 10px;
   font-size $code-font-size;
   color: $highlight-foreground;
   background: $highlight-background;
@@ -29,7 +30,7 @@ pre {
   @extend $code-block;
 
   code {
-    padding: 0;
+    padding: 0px;
     color: $highlight-foreground;
     background: none;
     text-shadow: none;
@@ -38,9 +39,11 @@ pre {
 
 .highlight {
   @extend $code-block;
-  border-radius: 1px
+  /* border-radius: 1px; */
+  padding: 0;
 
   pre {
+    border-radius: 1px;
     border: none;
     margin: 0;
     padding: 10px 0;
