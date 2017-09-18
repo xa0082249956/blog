@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-next",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Elegant theme for Hexo",
   "main": "index.js",
   "directories": {
@@ -31,8 +31,5 @@
     "js-yaml": "^3.8.1",
     "jshint-stylish": "^2.1.0",
     "stylint": "^1.5.9"
-  },
-  "dependencies": {
-    "hexo-sliding-spoiler": "^1.1.6"
   }
 }
