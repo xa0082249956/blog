@@ -64,9 +64,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-plugins:
 #  - hexo-sliding-spoiler
+
+plugins:
 theme: next
+
+# math:
+#   engine: katex
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
