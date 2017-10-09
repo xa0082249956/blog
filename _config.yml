@@ -61,16 +61,17 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Extensions
+Extensions:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#  - hexo-sliding-spoiler
 
 plugins:
 theme: next
 
 # math:
-#   engine: katex
+#   engine: mathjax
+# pandoc:
+#   mathEngine: mathjax
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
