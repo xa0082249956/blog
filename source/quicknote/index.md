@@ -109,6 +109,16 @@ aira2c -Z [URLA] [URLB]
 
 <https://bbs.deepin.org/forum.php?mod=viewthread&tid=42945>
 
+#### 网易云音乐打不开
+
+```bash
+sudo vim /usr/share/applications/netease-cloud-music.desktop
+```
+
+`exec` 后改为 `netease-cloud-music %U --no-sandbox`
+
+<https://www.zhihu.com/question/52084770>
+
 ### Ubuntu / Debian
 
 #### 安装 TexLive
