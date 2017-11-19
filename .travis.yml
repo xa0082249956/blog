@@ -25,6 +25,7 @@ install:
 # - git config --global user.name 'xa0082249956'
 # - git config --global user.emall '576810415@qq.com'
 script:
+- touch db.json
 - ls db.json
 - hexo clean
 - hexo generate
