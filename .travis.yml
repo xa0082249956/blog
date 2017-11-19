@@ -18,7 +18,7 @@ before_install:
 # - echo "    email = 576810415@qq.com" >> .deploy_git/.git/config
 - git clone git@github.com:xa0082249956/xa0082249956.github.io.git .deploy_git
 install:
-- sudo apt-get install pandoc
+- sudo apt install pandoc
 - npm install hexo@beta -g
 - npm install
 # - git config --global user.name 'xa0082249956'
