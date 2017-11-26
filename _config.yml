@@ -82,6 +82,13 @@ js_concator:
 plugins:
 theme: next
 
+pandoc:
+  filters:
+  extra:
+    # - standalone:
+  meta:
+  mathEngine: mathjax
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
