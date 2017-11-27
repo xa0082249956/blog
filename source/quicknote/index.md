@@ -139,3 +139,8 @@ TeX 中的                 C++ 对应
 `\else`                 `} else {`
 `    abc is false`      `    cout << "abc is false"; `
 `\fi`                   `}`
+
+### ...
+
+`\ldots` $\ldots$\
+`\cdots` $\cdots$
