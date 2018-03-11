@@ -1,12 +1,15 @@
 ---
 title: Undertale 的调试模式
-date: 2017-05-15 23:32:21
-update: 2017-07-04 09:54:32
+description: "Undertale 调试模式的启用方式与用法介绍。"
+date: 2017-05-15T23:32:21+08:00
+update: 2018-03-11T23:54:32+08:00
 tags: 
 - undertale
-category: 
+categories: 
 - hacking
 - undertale
+aliases:
+- "/2017/05/15/undertale-debug-mode/"
 ---
 
 Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文件进入。
@@ -15,29 +18,27 @@ Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文�
 > 因为它们充满了**剧透**。\
 > \* 当个好孩子，好吗？ 
 
-<!-- more -->
+<!--more-->
 
 # 启用调试
 
-> **警告**
->
-> 在继续之前，请确定你已经备份了 `Undertale.*` 和 `data.*` [Windows] / `game.*` [Linux]。\
-> 如果你的游戏如果打不开了，请找 Flowey 或者 Chara，那朵花和那只猹应该知道怎么做。
+{{% admonition type="warning" title="注意" %}}
+在继续之前，请确定你已经备份了 `Undertale.*` 和 `data.*` [Windows] / `game.*` [Linux]。\
+如果你的游戏如果打不开了，请找 Flowey 或者 Chara，那朵花和那只猹应该知道怎么做。
+{{% /admonition %}}
 
-<!-- aaa -->
-
-> **提示**
->
-> 你需要有 带十六进制编辑功能的编辑器 ( 以下简称 编辑器 )  才能进行下面的操作，推荐使用 UltraEdit。
+{{% admonition %}}
+你需要有 带十六进制编辑功能的编辑器 ( 以下简称 编辑器 )  才能进行下面的操作，推荐使用 UltraEdit。
+{{% /admonition %}}
 
 ## Version 1.0
 
 使用类似 WinRAR 或 好压 等解压软件解压游戏目录下的 `Undertale.exe` 到游戏根目录，然后用编辑器打开 `data.win`，定位到 `0x725B24` ( UltraEdit 可以使用快捷键 `Ctrl + G` ) 后将值改为 `01`，保存退出。( 覆盖原先的 exe 文件 )
 
-> **提示**
->
-> 如果你在玩 Steam 版，你只需要解压除了 steam_api.dll 外的文件，否则调试模式不能启用。\
-> *If you are playing the Steam version, you should extract every file except steam_api.dll, or the debug mode won't be activated.*
+{{% admonition %}}
+如果你在玩 Steam 版，你必须全部解压并删除其中的文件中的 `steam-api.dll`，否则调试模式不能启用。
+*If you are playing the Steam version, you should extract every file except steam_api.dll, or the debug mode won't be activated.*
+\{{% /admonition %}}
 
 ## Version 1.001
 
@@ -51,7 +52,7 @@ Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文�
 
 ### macOS
 
-用编辑器打开 `game.ios`，定位到 `0x725D8C` ( 或许可以 Mac + G ) 后将值改为 `01`，保存退出。
+用编辑器打开 `game.ios`，定位到 `0x725D8C` ( 或许可以 Cmd + G ) 后将值改为 `01`，保存退出。
 
 # 调试模式功能
 
@@ -290,3 +291,4 @@ Undertale 的调试模式可以使用十六进制编辑器修改游戏数据文�
 - 2017年5月15日 23点48分 [v1.2.1] 普通的格式修改。
 - 2017年5月16日 22点00分 [v1.2.2] 修正 Asriel 攻击名称翻译。
 - 2017年7月29日 17点36分 [v1.2.2] 使用 Pandoc 渲染的格式修正。有点想某个人。
+- 2018年3月12日 01点59分 [v1.3.0] 移动至 Hugo 下，修正部分翻译。

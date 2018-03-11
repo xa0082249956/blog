@@ -1,8 +1,6 @@
 ---
 title: 快速笔记
-visible: false
-date: 
-tags:
+date: 2017-08-20T21:38:52+08:00
 ---
 
 > 用来记录一些没有必要写成一篇文章，但总会需要的东西。\
@@ -32,13 +30,13 @@ aira2c -Z [URLA] [URLB]
 
 #### 编号
 
-直接使用块级代码$$x^n+y^n=z^n$$不会生成编号，而使用\tag{...}标签就可以生成对应的编号。
+直接使用块级代码`$$x^n+y^n=z^n$$`不会生成编号，而使用\tag{...}标签就可以生成对应的编号。
 
 ```markdown
-这样的代码可以生成如`$$x^n+y^n=z^n \tag{1.1}$$`的编号块级公式。
+这样的代码可以生成如$$x^n+y^n=z^n \tag{1.1}$$的编号块级公式。
 ```
 
-> 这样的代码可以生成如`$$x^n+y^n=z^n \tag{1.1}$$`的编号块级公式。
+这样的代码可以生成如$$x^n+y^n=z^n \tag{1.1}$$的编号块级公式。
 
 ## vi
 
@@ -82,7 +80,9 @@ aira2c -Z [URLA] [URLB]
 
 ## Linux
 
-### 标记安装包为自动安装
+### Debian/Ubuntu
+
+#### 标记安装包为自动安装
 
     sudo apt mark auto xxxxxx
 
@@ -91,6 +91,7 @@ aira2c -Z [URLA] [URLB]
     tail --follow /var/log/syslog
 
 ### 字体
+
 #### 位置
 
 ##### 定义位置
@@ -129,16 +130,16 @@ sudo vim /usr/share/applications/netease-cloud-music.desktop
 
 ### \newif
 
-TeX 中的                 C++ 对应
------------------------ -----------------
-`\newif\ifabc`          `bool abc;`
-`\abctrue`              `abc = true; `
-`\abcfalse`             `abc = false;`
-`\ifabc`                `if (abc) {`
-`    abc is true`       `    cout << "abc is true";`
-`\else`                 `} else {`
-`    abc is false`      `    cout << "abc is false"; `
-`\fi`                   `}`
+TeX 中的               | C++ 对应
+-----------------------|-----------------
+`\newif\ifabc`         |`bool abc;`
+`\abctrue`             |`abc = true; `
+`\abcfalse`            |`abc = false;`
+`\ifabc`               |`if (abc) {`
+`    abc is true`      |`    cout << "abc is true";`
+`\else`                |`} else {`
+`    abc is false`     |`    cout << "abc is false"; `
+`\fi`                  |`}`
 
 ### ...
 

@@ -1,0 +1,8 @@
+<!-- admonition type="note" title="提示" -->
+
+{{ $type := or (.Get "type") "note" }} {{ $title := or (.Get "title") "注意" }}
+
+<blockquote>
+  <p><strong>{{ $title }}</strong></p>
+  <p>{{ .Inner }}</p>
+</blockquote>
