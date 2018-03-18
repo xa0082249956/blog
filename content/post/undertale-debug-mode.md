@@ -3,11 +3,8 @@ title: Undertale 的调试模式
 description: "Undertale 调试模式的启用方式与用法介绍。"
 date: 2017-05-15T23:32:21+08:00
 update: 2018-03-11T23:54:32+08:00
-tags: 
-- undertale
-categories: 
-- hacking
-- undertale
+tags: ["undertale"]
+categories: ["hacking", "undertale"]
 aliases:
 - "/2017/05/15/undertale-debug-mode/"
 ---
