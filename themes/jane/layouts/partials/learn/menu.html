@@ -7,22 +7,22 @@
       {{ partial "learn/logo.html" . }}
     </div>
     {{if not .Site.Params.disableSearch}}
-        {{ partial "learn/search.html" . }}
+    {{ partial "learn/search.html" . }}
     {{end}}
   </div>
-
-    <div class="highlightable">
+  
+  <div class="highlightable">
     <ul class="topics">
-
-        {{if eq .Site.Params.ordersectionsby "title"}}  
-          {{range .Site.Home.Sections.ByTitle}}
+        
+        {{ if eq .Site.Params.ordersectionsby "title" }}  
+        {{ range (.Site.GetPage "section" .Section).Sections.ByTitle }}
           {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
-          {{end}}
-        {{else}}
-          {{range .Site.Home.Sections.ByWeight}}
+          {{ end }}
+        {{ else }}
+          {{ range (.Site.GetPage "section" .Section).Sections.ByWeight }}
           {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
-          {{end}}
-        {{end}} 
+          {{ end }}
+        {{ end }} 
     </ul>
 
     {{ $disableShortcutsTitle := .Site.Params.DisableShortcutsTitle}}
@@ -117,7 +117,7 @@
           {{end}}
           {{ $pages := ($currentNode.Scratch.Get "pages") }}
           
-        {{if eq .Site.Params.ordersectionsby "title"}}  
+        {{if eq .Site.Params.ordersectionsby "title"}}
           {{ range $pages.ByTitle }}
             {{ if and .Params.hidden (not $.showhidden) }} 
             {{else}}
