@@ -1,13 +1,11 @@
-{{ if (and (.Param "mathjax") (.Param "hackjax")) }}
-    {{ $p := slice (dict "regex" "(\\$\\$)((.|[\r\n\t])*?)(\\$\\$)" "delim" "$$" "tag" "block" "redelimL" "$$$$" "redelimR" "$$$$") (dict "regex" "(\\$)((.|[\r\n\t])*?)(\\$)" "delim" "$" "tag" "inlineA" "redelimL" "$$" "redelimR" "$$") (dict "regex" "(\\\\\\()((.|[\r\n\t])*?)(\\\\\\))" "delim" "$" "tag" "inlineB" "redelimL" "\\(" "redelimR" "\\)")  }} 
-    {{ $alpha := .RawContent | replaceRE (index $p 0).regex (print "<mathjax " (index $p 0).tag "=' $2 '/>") }} 
-    {{ $beta := $alpha | replaceRE (index $p 1).regex (print "<mathjax " (index $p 1).tag "=' $2 '/>") }} 
-    {{ $gamma := $beta | replaceRE (index $p 2).regex (print "<mathjax " (index $p 2).tag "=' $2 '/>") }} 
+{{ if and (.Param "hackmath") (.Param "math") }}
+    {{ $p := slice (dict "regex" "(\\$\\$)((.|[\r\n\t])*?)(\\$\\$)" "delim" "$$" "tag" "block" "redelimL" "$$$$" "redelimR" "$$$$") (dict "regex" "(\\\\\\[)((.|[\r\n\t])*?)(\\\\\\])" "delim" "$$" "tag" "block" "redelimL" "\\[" "redelimR" "\\]") (dict "regex" "(\\\\\\()((.|[\r\n\t])*?)(\\\\\\))" "delim" "$" "tag" "inlineB" "redelimL" "\\(" "redelimR" "\\)") }}
+    {{ $alpha := .RawContent | replaceRE (index $p 0).regex (print "<!--raw $0-->") }} 
+    {{ $beta := $alpha | replaceRE (index $p 1).regex (print "<!--raw $0-->") }} 
+    {{ $gamma := $beta | replaceRE (index $p 2).regex (print "<!--raw $0-->") }}
     {{ $process := $gamma | markdownify }} 
-    {{ $ungamma := $process | replaceRE (print "(<mathjax " (index $p 2).tag "=')((.|[\r\n\t])*?)('/>)") (print (index $p 2).redelimL " $2 " (index $p 2).redelimR) }} 
-    {{ $unbeta := $ungamma | replaceRE (print "(<mathjax " (index $p 1).tag "=')((.|[\r\n\t])*?)('/>)") (print (index $p 1).redelimL " $2 " (index $p 1).redelimR) }} 
-    {{ $unalpha := $unbeta | replaceRE (print "(<mathjax " (index $p 0).tag "=')((.|[\r\n\t])*?)('/>)") (print (index $p 0).redelimL " $2 " (index $p 0).redelimR) }} 
-    {{ $unalpha | safeHTML }}
+    {{ $unfold := $process | replaceRE "<!--raw ((.|[\r\n\t])*?)-->" "$1" }}
+    {{ $unfold | safeHTML }}
 {{ else }}
     {{ .Content }}
 {{ end }}
