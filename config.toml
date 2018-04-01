@@ -60,7 +60,6 @@ footnotereturnlinkcontents = "↩"
 #   languageName = "English"
 [Languages.zh-cn]
   languageCode = "zh-CN"
-  title = "这里是标题"
   weight = 1
   languageName = "简体中文"
 
