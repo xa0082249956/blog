@@ -1,4 +1,4 @@
-{{ if (.Param "mathjax") }}
+{{ if (and (.Param "mathjax") (.Param "hackjax")) }}
     {{ $p := slice (dict "regex" "(\\$\\$)((.|[\r\n\t])*?)(\\$\\$)" "delim" "$$" "tag" "block" "redelimL" "$$$$" "redelimR" "$$$$") (dict "regex" "(\\$)((.|[\r\n\t])*?)(\\$)" "delim" "$" "tag" "inlineA" "redelimL" "$$" "redelimR" "$$") (dict "regex" "(\\\\\\()((.|[\r\n\t])*?)(\\\\\\))" "delim" "$" "tag" "inlineB" "redelimL" "\\(" "redelimR" "\\)")  }} 
     {{ $alpha := .RawContent | replaceRE (index $p 0).regex (print "<mathjax " (index $p 0).tag "=' $2 '/>") }} 
     {{ $beta := $alpha | replaceRE (index $p 1).regex (print "<mathjax " (index $p 1).tag "=' $2 '/>") }} 
