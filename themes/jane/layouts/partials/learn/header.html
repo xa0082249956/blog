@@ -40,7 +40,7 @@
         <section id="body">
         <div id="overlay"></div>
         <div class="padding highlightable">
-              {{if not .IsHome}}
+            {{ if ne .Parent.Name .Site.Title }}
               <div>
                 <div id="top-bar">
                 {{ if and (or .IsPage .IsSection) .Site.Params.editURL }}
@@ -66,7 +66,7 @@
                   <span id="toc-menu"><i class="fa fa-list-alt"></i></span>
                   {{ end }}
                   <span class="links">
-                    {{ template "breadcrumb" dict "page" . "value" .Title }}   
+                    {{ template "breadcrumb" dict "page" . "value" .Title "sitetitle" .Site.Title }}   
                   </span>
                 </div>
                 {{ if $toc }}
@@ -86,9 +86,11 @@
 
         {{define "breadcrumb"}}
           {{$parent := .page.Parent }}
-          {{ if $parent }}
+          {{ if eq $parent.Parent.Title .sitetitle }}
+          {{ .value|safeHTML }}
+          {{ else if $parent }}
             {{ $value := (printf "<a href='%s'>%s</a> > %s" $parent.URL $parent.Title .value) }}
-            {{ template "breadcrumb" dict "page" $parent "value" $value }} 
+            {{ template "breadcrumb" dict "page" $parent "value" $value "sitetitle" .sitetitle }} 
           {{else}}
             {{.value|safeHTML}}
           {{end}}
