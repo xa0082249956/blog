@@ -7,6 +7,8 @@ tags:
 - 对数
 - 玄学
 draft: false
+math: "katex"
+hackmath: false
 ---
 
 ## Problem
@@ -17,6 +19,8 @@ A. $$ x_1 x_2 < 0 $$ \
 B. $$ x_1 x_2 = 1 $$ \
 C. $$ x_1 x_2 > 1 $$ \
 D. $$ 0 < x_1 x_2 < 1 $$ \
+
+<script>document.addEventListener("DOMContentLoaded", function() {katex.render("0 &lt; x_1 x_2 &lt; 1");});</script>
 
 <!--more-->
 

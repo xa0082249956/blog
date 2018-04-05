@@ -1,0 +1,11 @@
+{{ if and (.Param "hackmath") (.Param "math") }}
+    {{ $p := slice (dict "regex" "(\\$\\$)((.|[\r\n\t])*?)(\\$\\$)" "delim" "$$" "tag" "block" "redelimL" "$$$$" "redelimR" "$$$$") (dict "regex" "(\\\\\\[)((.|[\r\n\t])*?)(\\\\\\])" "delim" "$$" "tag" "block" "redelimL" "\\[" "redelimR" "\\]") (dict "regex" "(\\\\\\()((.|[\r\n\t])*?)(\\\\\\))" "delim" "$" "tag" "inlineB" "redelimL" "\\(" "redelimR" "\\)") }}
+    {{ $alpha := .RawContent | replaceRE (index $p 0).regex (print "<!--raw $0-->") }} 
+    {{ $beta := $alpha | replaceRE (index $p 1).regex (print "<!--raw $0-->") }} 
+    {{ $gamma := $beta | replaceRE (index $p 2).regex (print "<!--raw $0-->") }}
+    {{ $process := $gamma | markdownify }} 
+    {{ $unfold := $process | replaceRE "<!--raw ((.|[\r\n\t])*?)-->" "$1" }}
+    {{ $unfold | safeHTML }}
+{{ else }}
+    {{ .Content }}
+{{ end }}
