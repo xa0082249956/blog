@@ -8,7 +8,7 @@
 
 [build]
   publish = "public"
-  command = "hugo"
+  command = "./bin/hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.37"
+  HUGO_VERSION = "0.38"
