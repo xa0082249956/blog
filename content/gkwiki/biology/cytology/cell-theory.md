@@ -2,6 +2,7 @@
 title: "细胞学说"
 date: 2018-04-01T22:52:39+08:00
 draft: false
+description: "细胞学说是关于细胞是动物和植物结构和生命活动的基本单位的学说。它是由德国生物学家马蒂亚斯 · 雅各布 · 施莱登（Matthias Jakob Schleiden) 和泰奥多尔 · 施旺 (Theodor Schwann) 分别在 1838 年和 1839 年提出的。然而，其他许多科学家，例如鲁道夫 · 菲尔绍 (Rudolf Virchow) 等都有贡献于这一理论。细胞理论已经成为生物学的基础，是细胞功能的最普遍为人接受的解释。"
 ---
 
 {{% blockquote author="人教社" source="对 细胞学说 的评价" %}}
@@ -17,8 +18,6 @@ draft: false
 {{% /blockquote %}}
 
 细胞学说是关于细胞是动物和植物结构和生命活动的基本单位的学说。它是由德国生物学家马蒂亚斯 · 雅各布 · 施莱登（Matthias Jakob Schleiden) 和泰奥多尔 · 施旺 (Theodor Schwann) 分别在 1838 年和 1839 年提出的。然而，其他许多科学家，例如鲁道夫 · 菲尔绍 (Rudolf Virchow) 等都有贡献于这一理论。细胞理论已经成为生物学的基础，是细胞功能的最普遍为人接受的解释。
-
-<!--more-->
 
 ### 内容
 
