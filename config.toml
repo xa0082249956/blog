@@ -17,7 +17,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 enableGitInfo = true
 footnotereturnlinkcontents = "↩"
 
-pandocParameters = "--mathjax -fmarkdown+tex_math_single_backslash"
+pandocFlags = "--mathjax -fmarkdown+tex_math_single_backslash"
 
 [outputs]
  home = [ "HTML", "RSS", "JSON"]
