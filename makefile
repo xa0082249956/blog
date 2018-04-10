@@ -1,13 +1,14 @@
-FILES = ./archetypes ./content ./data ./i18n ./layouts ./static ./themes config.toml
+FILES = ./archetypes ./content ./i18n ./layouts ./static ./themes config.toml
 HUGOBIN = ./bin/hugo
 SFLAGS = "-D"
 
 .PHONY: clean server pubgit
 
-public: $(FILES)
+# TODO: do not generate if everything is newest.
+public:
 	$(HUGOBIN)
 
-pubgit: $(FILES)
+pubgit:
 	./build.sh
 	$(HUGOBIN)
 
