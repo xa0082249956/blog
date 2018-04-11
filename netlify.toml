@@ -8,11 +8,7 @@
 
 [build]
   publish = "public"
-  command = "make public"
+  command = "make pubgit"
 
 [build.environment]
   HUGO_VERSION = "0.38"
-
-[context.deploy-preview]
-  publish = "public"
-  command = "make pubgit"
