@@ -11,7 +11,7 @@ public: $(FILES)
 pubgit:
 	$(shell chmod +x ./build.sh)
 	./build.sh
-	$(HUGOBIN)
+	# $(HUGOBIN)
 
 server:
 	$(HUGOBIN) server $(SFLAGS)

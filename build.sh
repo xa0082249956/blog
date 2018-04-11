@@ -6,3 +6,4 @@ pushd ~/go/src/github.com/xa0082249956/hugo/
 go build -ldflags "-s -w" -o ~/Github/blog/bin/hugo\
     -o ${pth}/bin/hugo
 popd
+bin/hugo

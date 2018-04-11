@@ -8,7 +8,7 @@
 
 [build]
   publish = "public"
-  command = "make pubgit"
+  command = "./build.sh"
 
 [build.environment]
   HUGO_VERSION = "0.38"
