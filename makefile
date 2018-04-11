@@ -5,7 +5,7 @@ SFLAGS = "-D"
 .PHONY: clean server pubgit
 
 # TODO: do not generate if everything is newest.
-public:
+public: $(FILES)
 	$(HUGOBIN)
 
 pubgit:
