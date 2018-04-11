@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/sh
 pth=$(pwd)
 go get -v "github.com/xa0082249956/hugo"
 pushd ~/go/src/github.com/xa0082249956/hugo/
