@@ -9,6 +9,7 @@ public: $(FILES)
 	$(HUGOBIN)
 
 pubgit:
+	$(shell chmod +x ./build.sh)
 	./build.sh
 	$(HUGOBIN)
 
