@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 pth=$(pwd)
 go get -v "github.com/xa0082249956/hugo"
 
