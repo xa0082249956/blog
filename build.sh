@@ -1,6 +1,6 @@
 #!/bin/bash
 pth=$(pwd)
-go get -v "github.com/xa0082249956/hugo"
+go get -u -v "github.com/xa0082249956/hugo"
 
 if [[ -n "$GOPATH" ]]; then
     cd ${GOPATH}/src/github.com/xa0082249956/hugo/
