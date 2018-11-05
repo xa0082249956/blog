@@ -1,6 +1,0 @@
-[submodule "themes/jane"]
-	path = themes/jane
-	url = https://github.com/xianmin/hugo-theme-jane
-[submodule ".\\themes\\learn"]
-	path = .\\themes\\learn
-	url = git@github.com:matcornic/hugo-theme-learn.git
